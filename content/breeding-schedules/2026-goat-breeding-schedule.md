@@ -136,3 +136,7 @@ I keep a reservation list for pet wethers as well. Pick-up before 1 week is $30,
 </tr>
 </tbody>
 </table>
+
+## Nubian Goats
+
+Our Nubian, [Rosie](https://floof.farm/does/razpazazz-envy-ambers-rose/), joined the herd in 2025. She won't be old enough to breed until 2027 — stay tuned for our first Nubian kids!
