@@ -2,6 +2,8 @@
 title: "Floof Farm DG Damascus"
 date: 2021-07-07T01:40:58-08:00
 draft: false
+tags:
+  - "Nigerian Dwarf"
 slug: "damascus"
 categories:
   - "Bucks"

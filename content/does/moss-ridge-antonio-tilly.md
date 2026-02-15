@@ -2,6 +2,8 @@
 title: "Moss-Ridge Antonio Tilly"
 date: 2026-02-14T08:00:00-08:00
 draft: false
+tags:
+  - "Toggenburg"
 slug: "moss-ridge-antonio-tilly"
 author: "wonderchook"
 featured_image: "/images/placeholder-goat.png"

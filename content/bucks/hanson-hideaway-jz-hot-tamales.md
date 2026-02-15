@@ -2,6 +2,8 @@
 title: "Hanson Hideaway JZ Hot Tamales"
 date: 2024-07-06T08:06:01-08:00
 draft: false
+tags:
+  - "Nigerian Dwarf"
 slug: "hanson-hideaway-jz-hot-tamales"
 categories:
   - "Bucks"

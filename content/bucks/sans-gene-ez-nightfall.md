@@ -2,6 +2,8 @@
 title: "Sans Gene EZ Nightfall"
 date: 2021-07-07T05:57:56-08:00
 draft: false
+tags:
+  - "Nigerian Dwarf"
 slug: "sans-gene-ez-nightfall"
 author: "wonderchook"
 ---

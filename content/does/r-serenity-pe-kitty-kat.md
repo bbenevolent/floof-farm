@@ -2,6 +2,8 @@
 title: "R Serenity PE Kitty Kat"
 date: 2023-10-05T20:37:41-08:00
 draft: false
+tags:
+  - "Nigerian Dwarf"
 slug: "r-serenity-pe-kitty-kat"
 categories:
   - "Does"

@@ -2,6 +2,8 @@
 title: "SDS Farm ZQ Big Tuna Quinn"
 date: 2023-09-03T17:29:33-08:00
 draft: false
+tags:
+  - "Nigerian Dwarf"
 slug: "sds-farm-zq-big-tuna-quinn"
 categories:
   - "Bucks"

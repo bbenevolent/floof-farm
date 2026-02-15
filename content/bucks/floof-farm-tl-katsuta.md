@@ -2,6 +2,8 @@
 title: "Floof Farm TL Katsuta"
 date: 2023-09-30T07:23:54-08:00
 draft: false
+tags:
+  - "Nigerian Dwarf"
 slug: "floof-farm-tl-katsuta"
 categories:
   - "Bucks"

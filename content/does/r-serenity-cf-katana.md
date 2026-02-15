@@ -2,6 +2,8 @@
 title: "R Serenity CF Katana"
 date: 2019-10-21T09:57:44-08:00
 draft: false
+tags:
+  - "Nigerian Dwarf"
 slug: "r-serenity-cf-katana"
 categories:
   - "Does"

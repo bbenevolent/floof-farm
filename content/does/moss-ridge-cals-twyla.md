@@ -2,6 +2,8 @@
 title: "Moss-Ridge Cal's Twyla"
 date: 2023-09-30T06:41:30-08:00
 draft: false
+tags:
+  - "Toggenburg"
 slug: "moss-ridge-cals-twyla"
 categories:
   - "Does"

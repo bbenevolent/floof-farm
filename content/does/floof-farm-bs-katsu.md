@@ -2,6 +2,8 @@
 title: "Floof Farm BS Katsu"
 date: 2021-07-06T23:59:25-08:00
 draft: false
+tags:
+  - "Nigerian Dwarf"
 slug: "floof-farm-bs-katsu"
 categories:
   - "Does"

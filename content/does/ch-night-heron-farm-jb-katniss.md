@@ -3,6 +3,8 @@ title: "CH Night Heron Farm JB Katniss"
 date: 2021-07-10T23:08:48-08:00
 weight: 1
 draft: false
+tags:
+  - "Nigerian Dwarf"
 slug: "ch-night-heron-farm-jb-katniss"
 categories:
   - "Does"

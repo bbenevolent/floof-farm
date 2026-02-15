@@ -2,6 +2,8 @@
 title: "Diji Farm MT Ariel"
 date: 2021-07-10T23:13:47-08:00
 draft: false
+tags:
+  - "Nigerian Dwarf"
 slug: "diji-farm-mt-ariel"
 categories:
   - "Does"

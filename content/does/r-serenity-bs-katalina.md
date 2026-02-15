@@ -3,6 +3,8 @@ title: "R Serenity BS Katalina"
 date: 2023-04-16T12:16:36-08:00
 weight: 3
 draft: false
+tags:
+  - "Nigerian Dwarf"
 slug: "r-serenity-bs-katalina"
 categories:
   - "Does"

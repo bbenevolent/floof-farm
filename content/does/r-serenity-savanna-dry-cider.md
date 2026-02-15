@@ -3,6 +3,8 @@ title: "R Serenity Savanna Dry Cider"
 date: 2021-07-07T17:17:02-08:00
 weight: 2
 draft: false
+tags:
+  - "Nigerian Dwarf"
 slug: "r-serenity-savanna-dry-cider"
 categories:
   - "Does"

@@ -2,6 +2,8 @@
 title: "Floof Farm Jupiter's Titan"
 date: 2026-02-14T08:00:00-08:00
 draft: false
+tags:
+  - "Toggenburg"
 slug: "floof-farm-jupiters-titan"
 author: "wonderchook"
 featured_image: "/images/titan-grand-champion.jpg"

@@ -2,6 +2,8 @@
 title: "Floof Farm IK Katsumi"
 date: 2026-02-14T08:00:00-08:00
 draft: false
+tags:
+  - "Nigerian Dwarf"
 slug: "floof-farm-ik-katsumi"
 author: "wonderchook"
 featured_image: "/images/placeholder-goat.png"

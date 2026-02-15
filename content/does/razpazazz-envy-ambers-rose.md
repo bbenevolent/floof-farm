@@ -2,6 +2,8 @@
 title: "Razpazazz Envy Amber's Rose"
 date: 2025-06-14
 draft: false
+tags:
+  - "Nubian"
 featured_image: "/images/razpazazz-envy-ambers-rose.jpg"
 slug: "razpazazz-envy-ambers-rose"
 author: "wonderchook"

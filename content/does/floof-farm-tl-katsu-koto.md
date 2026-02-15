@@ -2,6 +2,8 @@
 title: "Floof Farm TL Katsu Koto"
 date: 2023-09-30T07:52:35-08:00
 draft: false
+tags:
+  - "Nigerian Dwarf"
 slug: "floof-farm-tl-katsu-koto"
 categories:
   - "Does"
