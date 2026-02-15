@@ -27,3 +27,5 @@ Dam's Dam: [R Serenity CF Katana](https://floof.farm/2019/10/21/katana/) VGVV 85
 [Link to full pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002317572)
 
 ![](/images/2023-09-20230717_132443-1024x842.jpg)
+
+![Blue Thing at show](/images/blue-thing-show-2025.png)
