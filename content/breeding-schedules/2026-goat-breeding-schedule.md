@@ -130,7 +130,7 @@ I keep a reservation list for pet wethers as well. Pick-up before 1 week is $30,
 <td><strong>Titan</strong><br><a href="https://floof.farm/does/floof-farm-jupiters-titan/">Floof Farm Jupiter's Titan</a></td>
 <td><strong>Damascus</strong><br><a href="https://floof.farm/bucks/damascus/">Floof Farm DG Damascus</a></td>
 <td>May 20</td>
-<td>We sort of ran out of time, so I shoved a Mini Tog in there! I picked Damascus because he's chocolate — hoping to get the Toggenburg markings on a mini frame. We'll see how it goes!</td>
+<td>We sort of ran out of time, so I shoved a Mini Tog in there! I picked Damascus because he's chocolate — hoping to get the Toggenburg markings on a mini frame. We won't be retaining any of these kids, so if you're interested in adding new genetics to your Mini Toggenburg program, these F1 kids would be a great opportunity. <a href="https://floof.farm/contact/">Contact me</a> if interested!</td>
 <td><a href="https://genetics.adga.org/PlannedPedigreePrint.aspx?SireNum=D002164427&DamNum=T002392995" style="display:inline-block;padding:3px 10px;background:#8A2BE2;color:#fff;border-radius:12px;text-decoration:none;font-size:0.8em;line-height:1.2;">Pedigree</a></td>
 <td></td>
 </tr>
