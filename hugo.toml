@@ -33,13 +33,17 @@ theme = 'floof'
     url = "/adga-goat-shows/"
     weight = 5
   [[menu.main]]
+    name = "Photos"
+    url = "/photos/"
+    weight = 6
+  [[menu.main]]
     name = "Blog"
     url = "/blog/"
-    weight = 6
+    weight = 7
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 7
+    weight = 8
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

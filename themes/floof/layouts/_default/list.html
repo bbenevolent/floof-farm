@@ -8,7 +8,18 @@
   {{ .Content }}
 
   {{ $section := .Section }}
-  {{ if or (eq $section "does") (eq $section "bucks") (eq $section "sold") (eq $section "wethers") (eq $section "for-sale") }}
+  {{ if eq $section "photos" }}
+
+  <div class="photo-gallery">
+    {{ range .RegularPages.ByDate.Reverse }}
+    <div class="photo-card">
+      {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
+      {{ with .Params.caption }}<p class="photo-caption">{{ . }}</p>{{ end }}
+    </div>
+    {{ end }}
+  </div>
+
+  {{ else if or (eq $section "does") (eq $section "bucks") (eq $section "sold") (eq $section "wethers") (eq $section "for-sale") }}
 
   {{/* Active goats (not rainbow bridge) */}}
   {{ $active := where .RegularPages ".Params.rainbow_bridge" "!=" true }}
