@@ -149,8 +149,9 @@ img { max-width: 100%; height: auto; }
 }
 .goat-card-img {
   width: 100%;
-  height: 250px;
+  height: 350px;
   object-fit: cover;
+  object-position: center top;
   border-radius: 0;
 }
 .goat-card-body {
