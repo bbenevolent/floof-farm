@@ -1,6 +1,6 @@
 <header class="site-header">
   <div class="header-inner">
-    <a href="/" class="site-logo">
+    <a href="{{ "/" | relURL }}" class="site-logo">
       <img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}">
       <span>
         <span class="site-title">{{ .Site.Title }}</span>
@@ -10,7 +10,7 @@
     <button class="nav-toggle" aria-label="Menu">☰</button>
     <nav class="main-nav">
       {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}"{{ if $.IsMenuCurrent "main" . }} class="active"{{ end }}>{{ .Name }}</a>
+        <a href="{{ .URL | relURL }}"{{ if $.IsMenuCurrent "main" . }} class="active"{{ end }}>{{ .Name }}</a>
       {{ end }}
     </nav>
   </div>

@@ -21,7 +21,7 @@
     </div>
     {{ end }}
   </div>
-  <p style="text-align: center; margin: 1rem 0;"><a href="/does/">View all does →</a></p>
+  <p style="text-align: center; margin: 1rem 0;"><a href="{{ "does/" | relURL }}">View all does →</a></p>
   {{ end }}
 
   {{ $posts := where (where .Site.RegularPages "Section" "blog") ".Params.draft" "!=" true }}
@@ -38,7 +38,7 @@
     </div>
     {{ end }}
   </div>
-  <p style="text-align: center; margin: 1rem 0;"><a href="/blog/">View all posts →</a></p>
+  <p style="text-align: center; margin: 1rem 0;"><a href="{{ "blog/" | relURL }}">View all posts →</a></p>
   {{ end }}
 </div>
 {{ end }}

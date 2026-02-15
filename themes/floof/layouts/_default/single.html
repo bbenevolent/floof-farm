@@ -12,7 +12,7 @@
 </div>
 <div class="goat-profile">
   {{ .Content }}
-  <p style="margin-top: 2rem;"><a href="/{{ $section }}/">← Back to {{ $section | title }}</a></p>
+  <p style="margin-top: 2rem;"><a href="{{ (printf "%s/" $section) | relURL }}">← Back to {{ $section | title }}</a></p>
 </div>
 {{ else }}
 {{/* Blog/page layout */}}
@@ -21,13 +21,13 @@
   {{ if .Date }}
   <div class="meta">
     {{ .Date.Format "January 2, 2006" }}
-    {{ with .Params.categories }} · {{ range $i, $c := . }}{{ if $i }}, {{ end }}<a href="/categories/{{ $c | urlize }}/">{{ $c }}</a>{{ end }}{{ end }}
+    {{ with .Params.categories }} · {{ range $i, $c := . }}{{ if $i }}, {{ end }}<a href="{{ (printf "categories/%s/" ($c | urlize)) | relURL }}">{{ $c }}</a>{{ end }}{{ end }}
   </div>
   {{ end }}
   {{ .Content }}
   {{ with .Params.tags }}
   <div class="tag-list" style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border);">
-    {{ range . }}<a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>{{ end }}
+    {{ range . }}<a href="{{ (printf "tags/%s/" (. | urlize)) | relURL }}" class="tag">{{ . }}</a>{{ end }}
   </div>
   {{ end }}
 </div>
