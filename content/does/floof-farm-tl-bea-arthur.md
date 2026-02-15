@@ -2,6 +2,7 @@
 title: "Floof Farm TL Bea Arthur"
 date: 2023-10-14T07:51:45-08:00
 draft: false
+featured_image: "/images/placeholder-goat.png"
 slug: "floof-farm-tl-bea-arthur"
 author: "wonderchook"
 ---
