@@ -25,7 +25,7 @@ theme = 'floof'
     url = "/breeding-schedules/2026-goat-breeding-schedule/"
     weight = 3
   [[menu.main]]
-    name = "Sale"
+    name = "Sales"
     url = "/for-sale/"
     weight = 4
   [[menu.main]]
