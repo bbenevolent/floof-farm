@@ -1,0 +1,44 @@
+{{ define "main" }}
+<div class="hero">
+  <h1>{{ .Site.Title }}</h1>
+  <p>{{ .Site.Params.description }}</p>
+  <p style="margin-top: 0.5rem; font-size: 0.95rem; opacity: 0.8;">{{ .Site.Params.location }}</p>
+</div>
+
+<div class="container">
+  {{ .Content }}
+
+  {{ $does := where (where .Site.RegularPages "Section" "does") ".Params.type" "does" }}
+  {{ if $does }}
+  <h2 style="text-align: center; margin: 2rem 0 0.5rem; color: var(--dark-brown);">Our Does</h2>
+  <div class="goat-grid">
+    {{ range first 6 $does }}
+    <div class="goat-card">
+      {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . }}" alt="{{ $.Title }}">{{ end }}
+      <div class="goat-card-body">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  <p style="text-align: center; margin: 1rem 0;"><a href="/does/">View all does →</a></p>
+  {{ end }}
+
+  {{ $posts := where (where .Site.RegularPages "Section" "blog") ".Params.draft" "!=" true }}
+  {{ if $posts }}
+  <h2 style="text-align: center; margin: 2.5rem 0 0.5rem; color: var(--dark-brown);">Latest from the Blog</h2>
+  <div class="content-narrow">
+    {{ range first 5 (sort $posts "Date" "desc") }}
+    <div class="blog-item">
+      <div>
+        <span class="date">{{ .Date.Format "January 2, 2006" }}</span>
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <p class="excerpt">{{ .Summary | truncate 160 }}</p>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  <p style="text-align: center; margin: 1rem 0;"><a href="/blog/">View all posts →</a></p>
+  {{ end }}
+</div>
+{{ end }}

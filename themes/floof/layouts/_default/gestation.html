@@ -1,0 +1,62 @@
+{{ define "main" }}
+<div class="page-header">
+  <h1>{{ .Title }}</h1>
+</div>
+<div class="single-content">
+  {{ .Content }}
+
+  <div class="calc-form">
+    <label for="breed-type">Breed Type</label>
+    <select id="breed-type">
+      <option value="145">Miniature (Nigerian Dwarf) — 145 days</option>
+      <option value="150">Standard (Toggenburg, etc.) — 150 days</option>
+    </select>
+
+    <label for="goat-name">Goat Name (optional)</label>
+    <input type="text" id="goat-name" placeholder="e.g., Paisley" style="width:100%;padding:0.6rem;margin-bottom:1rem;border:2px solid var(--border);border-radius:6px;font-size:1rem;">
+
+    <label for="breed-date">Breeding Date</label>
+    <input type="date" id="breed-date">
+
+    <button onclick="calculateDue()">Calculate Due Date</button>
+  </div>
+
+  <div class="calc-result" id="calc-result">
+    <p>Estimated due date:</p>
+    <p class="due-date" id="due-date"></p>
+    <p id="due-range" style="font-size: 0.9rem; color: var(--text-light); margin-top: 0.5rem;"></p>
+    <br>
+    <a id="gcal-link" href="#" target="_blank" rel="noopener" style="display:inline-block;background:var(--green);color:white;padding:0.6rem 1.5rem;border-radius:6px;font-weight:600;text-decoration:none;">Add to Google Calendar</a>
+  </div>
+</div>
+
+{{ end }}
+
+{{ define "scripts" }}
+<script>
+function calculateDue() {
+  const days = parseInt(document.getElementById('breed-type').value);
+  const dateInput = document.getElementById('breed-date').value;
+  const goatName = document.getElementById('goat-name').value;
+  
+  if (!dateInput) { alert('Please select a breeding date.'); return; }
+  
+  const breedDate = new Date(dateInput + 'T12:00:00');
+  const dueDate = new Date(breedDate.getTime() + days * 86400000);
+  const earlyDate = new Date(dueDate.getTime() - 5 * 86400000);
+  const lateDate = new Date(dueDate.getTime() + 5 * 86400000);
+  
+  const fmt = d => d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+  const gcalFmt = d => d.toISOString().replace(/[-:]/g,'').split('.')[0] + 'Z';
+  
+  document.getElementById('due-date').textContent = fmt(dueDate);
+  document.getElementById('due-range').textContent = `Watch window: ${fmt(earlyDate)} – ${fmt(lateDate)}`;
+  
+  const title = goatName ? `🐐 ${goatName} Due Date` : '🐐 Goat Due Date';
+  const gcalUrl = `https://calendar.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(title)}&dates=${gcalFmt(earlyDate)}/${gcalFmt(lateDate)}&details=${encodeURIComponent('Estimated due date: ' + fmt(dueDate) + ' (±5 days). Gestation: ' + days + ' days.')}`;
+  document.getElementById('gcal-link').href = gcalUrl;
+  
+  document.getElementById('calc-result').classList.add('show');
+}
+</script>
+{{ end }}

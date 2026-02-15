@@ -1,0 +1,54 @@
+baseURL = 'https://floof.farm/'
+languageCode = 'en-us'
+title = 'Floof Farm'
+theme = 'floof'
+
+[params]
+  description = "ADGA Registered Nigerian Dwarf and Toggenburg Dairy Goats"
+  location = "Winlock, Washington"
+  facebook = "https://www.facebook.com/theflooffarm"
+  logo = "https://floof.farm/wp-content/uploads/2019/09/alt-logo.png"
+  email = "k8chapman@gmail.com"
+  phone = "360-480-5261"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Does"
+    url = "/does/"
+    weight = 2
+  [[menu.main]]
+    name = "Bucks"
+    url = "/bucks/"
+    weight = 3
+  [[menu.main]]
+    name = "For Sale"
+    url = "/for-sale/"
+    weight = 4
+  [[menu.main]]
+    name = "Shows"
+    url = "/shows/"
+    weight = 5
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 6
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 7
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+
+[pagination]
+  pagerSize = 12

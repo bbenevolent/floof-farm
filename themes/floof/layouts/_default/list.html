@@ -1,0 +1,48 @@
+{{ define "main" }}
+<div class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p>{{ . }}</p>{{ end }}
+</div>
+
+<div class="container">
+  {{ .Content }}
+
+  {{ $section := .Section }}
+  {{ if or (eq $section "does") (eq $section "bucks") (eq $section "sold") (eq $section "wethers") (eq $section "for-sale") }}
+  <div class="goat-grid">
+    {{ range .RegularPages }}
+    <div class="goat-card">
+      {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . }}" alt="{{ $.Title }}">{{ end }}
+      <div class="goat-card-body">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        {{ with .Params.categories }}
+        <div class="tag-list">
+          {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  {{ else }}
+  <div class="content-narrow" style="padding-top: 0;">
+    {{ range .Paginator.Pages }}
+    <div class="blog-item">
+      <div>
+        <span class="date">{{ .Date.Format "January 2, 2006" }}</span>
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <p class="excerpt">{{ .Summary | truncate 200 }}</p>
+        {{ with .Params.tags }}
+        <div class="tag-list">
+          {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+
+    {{ template "_internal/pagination.html" . }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}

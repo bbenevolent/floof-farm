@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ $section := .Section }}
+{{ if or (eq $section "does") (eq $section "bucks") (eq $section "sold") (eq $section "wethers") (eq $section "for-sale") }}
+{{/* Goat profile layout */}}
+<div class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.categories }}
+  <div class="tag-list" style="justify-content: center; margin-top: 0.5rem;">
+    {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+  </div>
+  {{ end }}
+</div>
+<div class="goat-profile">
+  {{ .Content }}
+  <p style="margin-top: 2rem;"><a href="/{{ $section }}/">← Back to {{ $section | title }}</a></p>
+</div>
+{{ else }}
+{{/* Blog/page layout */}}
+<div class="single-content">
+  <h1>{{ .Title }}</h1>
+  {{ if .Date }}
+  <div class="meta">
+    {{ .Date.Format "January 2, 2006" }}
+    {{ with .Params.categories }} · {{ range $i, $c := . }}{{ if $i }}, {{ end }}<a href="/categories/{{ $c | urlize }}/">{{ $c }}</a>{{ end }}{{ end }}
+  </div>
+  {{ end }}
+  {{ .Content }}
+  {{ with .Params.tags }}
+  <div class="tag-list" style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border);">
+    {{ range . }}<a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>{{ end }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}
+{{ end }}
