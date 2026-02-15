@@ -19,13 +19,16 @@
     {{ end }}
   </div>
 
-  <div id="lightbox" class="lightbox" onclick="closeLightbox()">
-    <span class="lightbox-close">&times;</span>
-    <img id="lightbox-img" src="" alt="">
-    <p id="lightbox-caption"></p>
-  </div>
-
   <script>
+    (function() {
+      // Create lightbox on body so position:fixed works regardless of parent CSS
+      var lb = document.createElement('div');
+      lb.id = 'lightbox';
+      lb.className = 'lightbox';
+      lb.innerHTML = '<span class="lightbox-close">&times;</span><img id="lightbox-img" src="" alt=""><p id="lightbox-caption"></p>';
+      lb.addEventListener('click', function() { closeLightbox(); });
+      document.body.appendChild(lb);
+    })();
     function openLightbox(img) {
       var lb = document.getElementById('lightbox');
       document.getElementById('lightbox-img').src = img.src;
