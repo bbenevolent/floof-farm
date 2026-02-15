@@ -14,6 +14,34 @@
   {{ .Content }}
   <p style="margin-top: 2rem;"><a href="{{ (printf "%s/" $section) | relURL }}">← Back to {{ $section | title }}</a></p>
 </div>
+<script>
+(function(){
+  var profile = document.querySelector('.goat-profile');
+  if (!profile) return;
+  var ps = profile.querySelectorAll('p');
+  var group = [];
+  function flush() {
+    if (group.length < 1) return;
+    var grid = document.createElement('div');
+    grid.className = 'photo-grid';
+    group[0].parentNode.insertBefore(grid, group[0]);
+    group.forEach(function(p) { 
+      var img = p.querySelector('img');
+      grid.appendChild(img);
+      p.remove();
+    });
+    group = [];
+  }
+  ps.forEach(function(p) {
+    if (p.children.length === 1 && p.children[0].tagName === 'IMG' && p.textContent.trim() === '') {
+      group.push(p);
+    } else {
+      flush();
+    }
+  });
+  flush();
+})();
+</script>
 {{ else }}
 {{/* Blog/page layout */}}
 <div class="single-content">
