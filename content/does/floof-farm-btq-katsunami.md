@@ -1,6 +1,6 @@
 ---
 title: "Floof Farm BTQ Katsunami"
-date: 2026-02-15T00:00:00-08:00
+date: 2026-02-14T08:00:00-08:00
 draft: false
 slug: "floof-farm-btq-katsunami"
 author: "wonderchook"
