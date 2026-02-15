@@ -24,10 +24,10 @@ One of my very first goats ended up having carpal hyperextension. It started lik
 
 Symptoms seem to generally start around a year or year and a half old. Bucks also seem more likely to have symptoms than does. 
 
-![](https://floof.farm/wp-content/uploads/2023/12/20231009_161514-Large-1024x478.jpeg)
+![](/images/2023-12-20231009_161514-Large-1024x478.jpeg)
 *Doe with carpal hyperextension this picture is of the left leg which is not effected*
 
-![](https://floof.farm/wp-content/uploads/2023/12/20231009_162040-Large-1024x478.jpeg)
+![](/images/2023-12-20231009_162040-Large-1024x478.jpeg)
 **Doe with carpal hyperextension this picture is of the left leg which is effected**
 
 ## Initial studies

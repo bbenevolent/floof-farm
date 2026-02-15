@@ -13,4 +13,4 @@ Dam: GCH Sans Gene K Zydeco 3*M
 
 [Link to full pedigree](https://adgagenetics.org/GoatDetail.aspx?RegNumber=D001971027)
 
-![](https://floof.farm/wp-content/uploads/2022/10/20220723_102159-1024x768.jpg)
+![](/images/2022-10-20220723_102159-1024x768.jpg)

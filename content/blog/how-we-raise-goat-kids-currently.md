@@ -18,14 +18,14 @@ Our kidding season in 2023 was a long one. The first kids came March 13th and th
 
 Prep for kid raising starts before birth. This year was the first time we began feeding a pellet with a coccidiostat 30 days before kidding. I use decoquinate (deccox) in my operation because some of the other options are hazardous to dogs and pigs, rather than having to warn help I prefer it to not be an issue. The other prep we do is a CDT vaccine 30 days before kidding and Selenium and Vitamin E gel. 
 
-![](https://floof.farm/wp-content/uploads/2023/10/20230422_141347-Large-1024x768.jpeg)
+![](/images/2023-10-20230422_141347-Large-1024x768.jpeg)
 *A very pregnant Katniss*
 
 ## Birth to Two Weeks
 
 The biggest thing for the survival of the kids is being there for the birth. I've had situations where the does kid and I wasn't there where everything is fine and there have been a couple situations where we lost a kid.
 
-![](https://floof.farm/wp-content/uploads/2023/10/20230530_142951-Large-1024x768.jpeg)
+![](/images/2023-10-20230530_142951-Large-1024x768.jpeg)
 *Drying a kid off*
 
 Once the kid is born we suction their airway, dry them off and get them nursing. After they have settled in a little bit we dip their umbilical cords with iodine as well. Most of the time this is all that needs to be done, but if they are looking like they are struggling at all I take their temperature. Kids need temps of at least 101.5 F to eat and if it is low you need to get it up. If a kid has a low temp I bring them in the house and float them in 102.5 F water in a plastic bag and put molasses on their gums. I have had to do this a couple times a year and in most cases they perk up within a short period of time and I'm able to get colostrum in them and return them to their mother. I try to have the does raise their kids the first two weeks if I can. 
@@ -42,7 +42,7 @@ They are generally just kept on the bottle a few days. If someone is taking home
 
 The real game changer this year was using a Lambar. We did the same basic bottle feeding last year but used the Bess Bottles the entire time. It became a challenge of washing, refilling and managing all those bottles. The lambar was so much easier in terms of managing and cleaning. I chose the Milk Bar system because it didn't have any tubes and it was well recommended.  
 
-![](https://floof.farm/wp-content/uploads/2023/10/20230406_114210-Large-1024x871.jpeg)
+![](/images/2023-10-20230406_114210-Large-1024x871.jpeg)
 *Starting kids on a lambar*
 
 The reason I start the kids on the Bess Bottle first is that I find it helps them get used to sucking on something other than their mother and associating the humans with food. Then putting them on the lambar is much easier. To get them on the lambar we gently put the nipple in their mouth until they figure it out. This process sometimes takes a day or so, but generally they switch over pretty well. 
@@ -67,5 +67,5 @@ At twelve weeks I band all the boys that at not staying as bucks. I give them or
 
 Well that is how we raised kids this year. I kidded 14 does this year and 38 kids were born. We lost 1 kid at birth because we weren't there and 2 kids to floppy kid syndrome at under a week old. 35 kids survived until weaning. We kept 5 kids and 30 went to other homes. 
 
-![](https://floof.farm/wp-content/uploads/2023/10/20231019_173544-1-975x1024.jpg)
+![](/images/2023-10-20231019_173544-1-975x1024.jpg)
 *Fun with keeper kids*

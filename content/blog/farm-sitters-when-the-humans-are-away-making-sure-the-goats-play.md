@@ -40,7 +40,7 @@ Ultimately it comes down to budget. I have traded farm chores before as well as 
 
 One of the things that I appreciate when I am preparing for a trip is it really forces me to think about how I take care of my animals and if things can be simplified. Sometimes thinking through the steps causes me to make improvements that I keep upon my return. 
 
-![](https://floof.farm/wp-content/uploads/2023/08/20210814_084632-1024x768.jpg)
+![](/images/2023-08-20210814_084632-1024x768.jpg)
 *There have been times where my goats got a daily walk, if I was traveling I would eliminate this*
 
 ### Reducing milking
@@ -63,7 +63,7 @@ My does need hay daily, so there isn't too much I can do to change this. There i
 
 In addition to our goats we have a couple cattle that also need hay. I had been peeling chunks off of round bales for them, but this required climbing through a small space. For the length of my trip they were fed timothy which is much more expensive than the local hay I trade for, but the shenanigans to get to the hay were much less. 
 
-![](https://floof.farm/wp-content/uploads/2023/04/image-6.png)
+![](/images/2023-04-image-6.png)
 *This hay feeder can hold more than a full three string bale*
 
 ### Less stops
@@ -76,9 +76,9 @@ The biggest thing with thinking through your needs are what are your absolute re
 
 Our barn cats also have a curfew which is a choice we have made. We call them in overnight, so someone needs to be home to make sure that happens. 
 
-![](https://floof.farm/wp-content/uploads/2024/01/20231212_111942-703x1024.jpg)
+![](/images/2024-01-20231212_111942-703x1024.jpg)
 
-![](https://floof.farm/wp-content/uploads/2024/01/20240103_103939-1024x478.jpg)
+![](/images/2024-01-20240103_103939-1024x478.jpg)
 
 ## It will be okay
 

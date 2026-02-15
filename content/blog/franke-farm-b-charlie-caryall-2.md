@@ -17,6 +17,6 @@ Dam: SG Franke Farm PN Coach
 
 [Link to full pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002081536)
 
-![](https://floof.farm/wp-content/uploads/2023/06/charlie.jpg)
+![](/images/2023-06-charlie.jpg)
 
-![](https://floof.farm/wp-content/uploads/2023/06/charlie-udder-715x1024.jpg)
+![](/images/2023-06-charlie-udder-715x1024.jpg)

@@ -7,7 +7,7 @@ categories:
   - "Does"
 author: "wonderchook"
 type: "does"
-featured_image: "https://i1.wp.com/floof.farm/wp-content/uploads/2023/09/20230717_145703-1-1024x906.jpg?ssl=1"
+featured_image: "/images/2023-09-20230717_145703-1-1024x906.jpg"
 ---
 
 Twyla is our venture into Toggs. I most admire her top line and her rear udder height and width. Having her has really sharpened my eye on what I expect out of my Nigerians. I was delighted when she appraised a VVVV87 as a first freshener. 
@@ -24,9 +24,9 @@ Dam: Moss-Ridge Rhem's Johnna VEEE 90
 
 Dam's Dam: Moss-Ridge Jalant Janna VV+V 87
 
-![](https://i1.wp.com/floof.farm/wp-content/uploads/2023/09/20230717_145703-1-1024x906.jpg?ssl=1)
+![](/images/2023-09-20230717_145703-1-1024x906.jpg)
 
-![](https://i1.wp.com/floof.farm/wp-content/uploads/2023/09/20230719_155421-1-621x1024.jpg?ssl=1)
+![](/images/2023-09-20230719_155421-1-621x1024.jpg)
 
 ## Accomplishments
 
@@ -39,4 +39,4 @@ Dam's Dam: Moss-Ridge Jalant Janna VV+V 87
 
 ## Milk Records
 
-![](https://floof.farm/wp-content/uploads/2023/09/Screenshot-2023-09-30-at-6.31.17-AM.png)
+![](/images/2023-09-Screenshot-2023-09-30-at-6.31.17-AM.png)

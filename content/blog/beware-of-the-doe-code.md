@@ -19,11 +19,11 @@ Twyla is a pretty even tempered goat and I figured the change might upset her bu
 
 Twyla is back home now and very happy to be back with her bestie. We'll try again for a milk star next lactation. Next time, I won't forget the doe code. 
 
-![](https://floof.farm/wp-content/uploads/2024/02/20231021_141209-1024x715.jpg)
+![](/images/2024-02-20231021_141209-1024x715.jpg)
 *Don't forget the doe code*
 
-![](https://floof.farm/wp-content/uploads/2024/02/20240130_164852-816x1024.jpg)
+![](/images/2024-02-20240130_164852-816x1024.jpg)
 *Twyla and Koto Snacking*
 
-![](https://floof.farm/wp-content/uploads/2024/02/20240131_183042-1024x802.jpg)
+![](/images/2024-02-20240131_183042-1024x802.jpg)
 *Twyla and Koto Cuddling*

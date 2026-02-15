@@ -37,5 +37,5 @@ Your offspring will have your herd name. Their parents will have the fancy herd 
 
 If you can afford excellent stock, you should still go and buy it. This post is a warning that you can't expect to make your money back quickly. Simply expensive goats may or may not be worth it depending on your herd goals. Start with the best genetics you can, just don't believe you can make your money back immediately. You may never. 
 
-![](https://floof.farm/wp-content/uploads/2023/06/20230610_150634-2-1024x823.jpg)
+![](/images/2023-06-20230610_150634-2-1024x823.jpg)
 *[Katniss ](https://floof.farm/2021/07/10/ch-night-heron-farm-jb-katniss/)a proven doe we were able to bring in*

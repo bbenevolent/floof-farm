@@ -7,12 +7,12 @@ categories:
   - "Bucks"
 author: "wonderchook"
 type: "bucks"
-featured_image: "https://i0.wp.com/floof.farm/wp-content/uploads/2023/09/20240905_175159-1024x768.jpg?ssl=1"
+featured_image: "/images/2023-09-20240905_175159-1024x768.jpg"
 ---
 
 Katsuta brings together some combinations I really admire. He has the nice width you see in many of the Sans Gene lines and is a bit more refined coming from his dam. I retained him primarily to continue honing in on my Kat dam-line. I'm really excited to see what he brings me in 2024. 
 
-![](https://i0.wp.com/floof.farm/wp-content/uploads/2023/09/20240905_175159-1024x768.jpg?ssl=1)
+![](/images/2023-09-20240905_175159-1024x768.jpg)
 
 Sire's Sire: Blythmoor Voodoo Dancer VVV 87
 

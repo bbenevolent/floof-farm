@@ -34,7 +34,7 @@ The other important item regarding feeding is the timing. I feed grain at night 
 
 Since I switched to feeding this way I've only had one birth in the middle of the night. The exception last year was I had one doe kid in the middle of the night, but she was already in labor when I offered her evening grain and was not interested in eating at that point. 
 
-![](https://floof.farm/wp-content/uploads/2023/12/20230423_094337-Large-1024x768.jpeg)
+![](/images/2023-12-20230423_094337-Large-1024x768.jpeg)
 *Very pregnant goats enjoying their evening alfalfa*
 
 ## Vaccinations
@@ -49,5 +49,5 @@ Other than the actual birth which can have its own set of complications there ar
 
 If all these things go right then sometime between roughly 140-158 days my doe delivers her kids. 
 
-![](https://floof.farm/wp-content/uploads/2023/12/20230313_075034-Large-1024x731.jpeg)
+![](/images/2023-12-20230313_075034-Large-1024x731.jpeg)
 *Savy showing the literal fruits of her labor*

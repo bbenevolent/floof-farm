@@ -7,16 +7,16 @@ categories:
   - "Bucks"
 author: "wonderchook"
 type: "bucks"
-featured_image: "https://i1.wp.com/floof.farm/wp-content/uploads/2024/07/20240802_172937-1024x898.jpg?ssl=1"
+featured_image: "/images/2024-07-20240802_172937-1024x898.jpg"
 ---
 
 When I was thinking about an outside buck for fall 2024 breeding [Hanson's Hideaway ](https://www.hansonshideaway.com/)immediately came to mind. My primary focus is on ADGA Show Goats and what better place to go to improve my lines for that purpose than Hanson's Hideaway. 
 
 I was delighted to be able to bring Tamales home and plan to use him extensively in my breedings for 2025. 
 
-![](https://i1.wp.com/floof.farm/wp-content/uploads/2024/07/20240802_172937-1024x898.jpg?ssl=1)
+![](/images/2024-07-20240802_172937-1024x898.jpg)
 
-![](https://i0.wp.com/floof.farm/wp-content/uploads/2024/07/20240825_165015-595x1024.jpg?ssl=1)
+![](/images/2024-07-20240825_165015-595x1024.jpg)
 
      Sire's Sire: Cedar View Hudson *B - VEE91
 

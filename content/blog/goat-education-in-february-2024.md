@@ -30,12 +30,12 @@ I was really excited for the [interview with Dr. Erica McKenzie and Dr. Leah Str
 
 To round out my goat education in February I learned about pregnancy toxemia. I've not had a goat experience pregnancy toxemia, but I'm always looking to take better care of my pregnant goats. In this episode of [Ringside](https://www.dairygoatpodcast.com/) how to [better understand the condition, what to look for and how to treat it was covered](https://www.audible.com/podcast/Managing-Pregnancy-Toxemia-with-Kelley-Hines/B0CV41TDQN). One thing I learned was that you can do a tail prick to get blood to check your doe's ketones. This made the idea of blood tests far more manageable for me and I've finally used my blood ketone meter! 
 
-![](https://floof.farm/wp-content/uploads/2024/03/20240302_073856-942x1024.jpg)
+![](/images/2024-03-20240302_073856-942x1024.jpg)
 *No Signs of Pregnancy Toxemia here!*
 
 ## My Goat Education
 
 I find podcasts to be the easiest way for me to learn and keep on top of things. Unlike reading and actively researching it is something I can do while I'm milking, driving or feeding. I'm always adding new podcasts to my rotation. What are you listening to? 
 
-![](https://floof.farm/wp-content/uploads/2024/03/20240229_170818-1024x845.jpg)
+![](/images/2024-03-20240229_170818-1024x845.jpg)
 *Kid Watch 2024 continues but at least I have this cutie to keep me company*

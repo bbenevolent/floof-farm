@@ -22,7 +22,7 @@ Most goat sales still happen on Facebook. Though of the ones that happen elsewhe
 
 The biggest clue is the age of the person's profile. You can see this easily for pages, but not as easily for people's profiles. One of the things you can do is scroll back through their post and see the first post they have available. You can also look at their Profile Photos as well. Click on their Profile -> Albums -> Profile pictures and scroll down to see their first profile picture. 
 
-![](https://floof.farm/wp-content/uploads/2024/01/Screenshot-2024-01-07-at-6.42.12 PM.png)
+![](/images/2024-01-Screenshot-2024-01-07-at-6.42.12 PM.png)
 *It is likely from my first profile photo that my page was created November 9, 2008 or earlier*
 
 New pages should always be treated with suspicion. Most people that wanted to have a Facebook account already got one a long time ago. Occasionally people had to make a new one for one reason or another but this is the exception not the rule. 
@@ -39,7 +39,7 @@ Then you can generally look at any other public information. Does it look like t
 
 Another thing to do is try to determine if the pictures they are using are really theirs. You can do a Google Reverse Image Search for this. From the Google Search bar you click the camera button and then get an upload screen for the image. Download the images they are using, especially the goat photos and feed them in here and then Google will show if they are used elsewhere on the web. If they are already being used elsewhere then it is a scam. The exception would if the image shows up on the website of the farm they actually claim to be, but if their profile seems suspicious then don't trust this. 
 
-![](https://floof.farm/wp-content/uploads/2024/01/Screenshot-2024-01-07-at-6.46.41 PM-1024x848.png)
+![](/images/2024-01-Screenshot-2024-01-07-at-6.46.41 PM-1024x848.png)
 
 ## Buyer beware goat scams
 

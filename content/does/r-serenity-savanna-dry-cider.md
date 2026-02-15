@@ -7,7 +7,7 @@ categories:
   - "Does"
 author: "wonderchook"
 type: "does"
-featured_image: "https://floof.farm/wp-content/uploads/2021/07/20250601_131816-1024x944.jpg"
+featured_image: "/images/2021-07-20250601_131816-1024x944.jpg"
 ---
 
 R Serenity Savanna Dry Cider *M (pending) is a lovely goat and herd favorite. She scored a GEEE87 as a 4 year old third freshener.
@@ -18,12 +18,12 @@ Dam: R Serenity NHF Sparkling Cider
 
 [Link to full pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002091116)
 
-![](https://floof.farm/wp-content/uploads/2021/07/20250601_131816-1024x944.jpg)
+![](/images/2021-07-20250601_131816-1024x944.jpg)
 
-![](https://floof.farm/wp-content/uploads/2021/07/20250601_131955-1024x1002.jpg)
+![](/images/2021-07-20250601_131955-1024x1002.jpg)
 
-![](https://floof.farm/wp-content/uploads/2022/07/20220703_120314-1024x768.jpg)
+![](/images/2022-07-20220703_120314-1024x768.jpg)
 
-![](https://floof.farm/wp-content/uploads/2022/07/20220703_120404-768x1024.jpg)
+![](/images/2022-07-20220703_120404-768x1024.jpg)
 
-![R Serenity Savanna Dry Cider](https://floof.farm/wp-content/uploads/2023/07/20230719_162039-2.jpg)
+![R Serenity Savanna Dry Cider](/images/2023-07-20230719_162039-2.jpg)

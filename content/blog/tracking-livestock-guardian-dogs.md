@@ -15,12 +15,12 @@ One of the challenges you often see in homesteading groups is with Livestock Gua
 
 The second type of animal to join our farm after our goats was our Maremma Sheepdog, Ada Floofington. We now have a pack of five LGDs. The term Livestock Guardian Dog describes breeds of dog selected for over thousands of years to protect livestock. All of the dogs we have gotten have had their different quirks and training challenges, in this post I'm not going to go over them all. This is about our one dog in particular Boo-Boo who is extremely fearful of loud noises and will do anything to get away. 
 
-![](https://floof.farm/wp-content/uploads/2023/09/ada-bart-Large-1024x766.jpeg)
+![](/images/2023-09-ada-bart-Large-1024x766.jpeg)
 *Ada with her pig friend Bart*
 
 Boo-Boo's fear has been an expensive issue that we have not been able to resolve. We have tried training, medication and mitigation. Before we got better at managing it he escaped twice and got in with our dog Lucy who does not get along with him. Boo-Boo was attacked, causing four figure vet bills. Three other times he have gotten completely off our property, the first time a neighbor called us at the number on his collar and the other two times we found him with a tracker. 
 
-![](https://floof.farm/wp-content/uploads/2023/09/20220807_104015-Large-768x1024.jpeg)
+![](/images/2023-09-20220807_104015-Large-768x1024.jpeg)
 *Boo-Boo recovering from his injury from our other dog*
 
 Our first priority is always to keep Boo-Boo from running away and managing his fear, but we also have him wear a tracker just in case. There are three different trackers we've tried and I'll go over the advantages and disadvantages here. The three trackers are the [Dogtra Pathfinder 2 Mini](https://www.dogtra.com/products/tracking-and-training), [Whistle](https://www.whistle.com/) and [Tractive XL](https://tractive.com/r/f56Tz7).
@@ -39,14 +39,14 @@ We first tried the Whistle and we were able to find Boo-Boo because of it, but i
 
 Boo-Boo has escaped twice when wearing this device. This past August we had a lot more thunderstorms than is normal. Thunderstorms are the most difficult noise to manage as they last a long-time and can be sudden, the 4th of July is also difficult but we know it is happening and drug Boo-Boo ahead of time. The first time I used the device I thought Boo-Boo had escaped, but it turned out he was so well hidden I couldn't find him. The issue was the device was unable to connect and tell me he was still on the property. I ended up searching frantically for him and never getting a hint of where he might be. I chocked this up to the signal blocking nature of the barn and continued to use the Whistle. This was until he escaped two times.
 
-![](https://floof.farm/wp-content/uploads/2023/09/20230825_082310-1-Large-1024x478.jpeg)
+![](/images/2023-09-20230825_082310-1-Large-1024x478.jpeg)
 *The result after one of Boo-Boo's escapes*
 
 ### Boo-Boo's First Escape
 
 The first time Boo-Boo escaped the device did not tell me that he escaped, I discovered it by going to look for him in the barn. I then put the device in live tracking mode and the device reported a single point he had passed south of us. I turned south and started driving up and down the back roads to see if I could find him. The Whistle was finally able to get signal and I was able to find Boo-Boo immediately after that. He was gone about a hour and a half total this time. On the way home Whistle congratulated us on his first trip, frustrating to say the least. 
 
-![](https://floof.farm/wp-content/uploads/2023/09/Screenshot_20230825_112342_Whistle-478x1024.jpg)
+![](/images/2023-09-Screenshot_20230825_112342_Whistle-478x1024.jpg)
 *Unwelcome notification on our way home after the escape*
 
 ### Boo-Boo's Second Escape
@@ -57,7 +57,7 @@ The second time Boo-Boo escaped we had a totally unexpected thunderstorm in the 
 
 The [Tractive](https://tractive.com/r/f56Tz7) I have had the shortest period of time of all three devices. The main reason I decided to try this device is because it utilizes three different cellular networks. It is a much bigger device and is supposed to have excellent battery life. As my advice here is for livestock guardian dogs the size of the device is fine for them, but if you are reading this for another type of dog it might be too big for them. I've only run simulated tests so far, but I have been able to connect to the device on backroads, I've turned of bluetooth on my phone for these tests so it doesn't use it for its location. It also has informed me when the device leaves the geofence area, this did not work well when it was in battery saving mode with our wifi network though. I think this is because our extender gives the wifi a much wider range than is typical. I might try adjusting this, but for now I have it running without wifi. The Tractive occasionally gives false alarms that Boo-Boo has left the safe zone with GPS drift on this device, but it has been very easy to put it in live mode and see that he is where he is supposed to be. I would rather have false alarms than not be informed when he escaped. 
 
-![](https://floof.farm/wp-content/uploads/2023/09/Screenshot_20230910_094946_Tractive-GPS-478x1024.jpg)
+![](/images/2023-09-Screenshot_20230910_094946_Tractive-GPS-478x1024.jpg)
 *Example when the GPS drifted and we got a false alarm*
 
 ## Weighing the Options
@@ -66,5 +66,5 @@ I may try other devices as well eventually, but I was trying to find something t
 
 The best prevention for this is exposing your dog to as many experiences and sounds when they are a puppy. I'm not sure when Boo-Boo got his extreme fear of loud noises, but it has progressively gotten worse and worse. Having talked to gun dog trainers and others it is likely something I will always have to manage and will not be able to completely desensitize him. 
 
-![](https://floof.farm/wp-content/uploads/2023/09/20230601_124223-Large-1024x768.jpeg)
+![](/images/2023-09-20230601_124223-Large-1024x768.jpeg)
 *Boo-Boo doing what he does best on a sunny day*

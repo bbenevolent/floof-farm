@@ -43,5 +43,5 @@ Did the last section make you eye roll and you think I'm a bit silly with the na
 
 What is your favorite name?  
 
-![](https://floof.farm/wp-content/uploads/2024/02/20240224_115800-916x1024.jpg)
+![](/images/2024-02-20240224_115800-916x1024.jpg)
 *New kid impatiently waiting his name, I mean bottle...*

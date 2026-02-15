@@ -13,7 +13,7 @@ author: "wonderchook"
 
 Goat bedding is something where there are likely as many variants as there are goat farms. Some things are simple differences and some styles vary quite a bit. Here I'll explain what we currently do, the things we've tried and few options we haven't tried because we didn't think they would work for us.  
 
-![Our does relaxing in a fresh goat bedding set-up](https://floof.farm/wp-content/uploads/2023/12/20231217_140614-Large.jpeg)
+![Our does relaxing in a fresh goat bedding set-up](/images/2023-12-20231217_140614-Large.jpeg)
 *Our does enjoying a clean barn*
 
 ## Goat Bedding Considerations
@@ -40,7 +40,7 @@ I typically use three products for bedding my goats. An anti-ammonia agent, stal
 
 After the barn has been stripped first I spread [Sweet PDZ](https://sweetpdz.com/), I personally prefer the powdered formulation. Sweet PDZ is zeolites which interacts with the ammonia, think the same stuff in cat litter. This goes directly on the concrete and I find it helps keep the ammonia smell from sinking in. 
 
-![Taffy inspecting the layer of Sweet PDZ](https://floof.farm/wp-content/uploads/2023/12/20231217_114737-Large-1024x478.jpeg)
+![Taffy inspecting the layer of Sweet PDZ](/images/2023-12-20231217_114737-Large-1024x478.jpeg)
 *Taffy Inspecting the Layer of Sweet PDZ*
 
 ### Stall Pellets
@@ -53,7 +53,7 @@ Finally I add a layer of pine shavings. I buy bags of shavings, if I had a tract
 
 The shavings do two things: first they stop the goats from eating the pellets, two it gives them a more comfortable service at first. The pellets do fluff and break down overtime as well, but I find the shavings are an important addition. 
 
-![Toggenburg goat and Nigerian goats on top of bags of shavings](https://floof.farm/wp-content/uploads/2023/12/20231126_123507-Large-1024x631.jpeg)
+![Toggenburg goat and Nigerian goats on top of bags of shavings](/images/2023-12-20231126_123507-Large-1024x631.jpeg)
 *Twyla always has to help us moving the shavings*
 
 ## The Clean Out
@@ -68,12 +68,12 @@ In our case we make a big pile of bedding out behind the barn to compost it. Cur
 
 This is the method we use for our does most of the year. This does vary when we hit the road though. I only bed with shavings at [shows](https://floof.farm/adga-goat-shows/) and in our travel. The exception to this was Nationals as the goats where there a week so I did the same set-up described above. For our bucks in the winter I use straw and stall pellets together. This is more because the dogs like the straw and encourages them to stay out of the rain. 
 
-![Maremma Sheepdog laying in a dog house filled with straw](https://floof.farm/wp-content/uploads/2023/12/20231210_125720-Large-1024x478.jpeg)
+![Maremma Sheepdog laying in a dog house filled with straw](/images/2023-12-20231210_125720-Large-1024x478.jpeg)
 *Ada enjoying her freshly straw filled dog house*
 
 ## What method is right for you?
 
  There are different things to balance when deciding on your farm management practices. What works for me might not work for you due to cost, your facility or any other number of reasons. If you are new to goats you might just have to experiment. Did you try any of the things we do for goat bedding? [Let us know.](https://floof.farm/contact/) 
 
-![Goats eating at a hay feeder](https://floof.farm/wp-content/uploads/2023/12/20231217_120201-Large-1024x478.jpeg)
+![Goats eating at a hay feeder](/images/2023-12-20231217_120201-Large-1024x478.jpeg)
 *Does enjoying a snack with their fresh barn*

@@ -7,7 +7,7 @@ categories:
   - "Does"
 author: "wonderchook"
 type: "does"
-featured_image: "https://i0.wp.com/floof.farm/wp-content/uploads/2021/07/katniss-gch-3rd-leg-josephine-county-fair_orig.jpg?ssl=1"
+featured_image: "/images/2021-07-katniss-gch-3rd-leg-josephine-county-fair_orig.jpg"
 ---
 
 **NOTE**: For 2024 Katniss is bred to [SDS Farm ZQ Big Tuna Quinn](https://floof.farm/2023/09/03/sds-farm-zq-big-tuna-quinn/) and due March 23rd. Reservations available, see our [breeding schedule for more information](https://floof.farm/2024-goat-breeding-schedule/).  
@@ -28,13 +28,13 @@ Dam's Dam: Sans Gene GT Hermione EEEV 90
 
 [Link to full pedigree](https://adgagenetics.org/GoatDetail.aspx?RegNumber=D001725015)
 
-![](https://i0.wp.com/floof.farm/wp-content/uploads/2021/07/katniss-gch-3rd-leg-josephine-county-fair_orig.jpg?ssl=1)
+![](/images/2021-07-katniss-gch-3rd-leg-josephine-county-fair_orig.jpg)
 
-![](https://i1.wp.com/floof.farm/wp-content/uploads/2021/07/katniss-chehalis_orig.jpg?ssl=1)
+![](/images/2021-07-katniss-chehalis_orig.jpg)
 
-![](https://i1.wp.com/floof.farm/wp-content/uploads/2023/07/received_658223965886066-2.jpg?ssl=1)
+![](/images/2023-07-received_658223965886066-2-0f9800.jpg)
 
-![](https://i0.wp.com/floof.farm/wp-content/uploads/2023/06/20230610_150741-2-728x1024.jpg?ssl=1)
+![](/images/2023-06-20230610_150741-2-728x1024.jpg)
 
 ## Accomplishments
 
@@ -68,7 +68,7 @@ Dam's Dam: Sans Gene GT Hermione EEEV 90
 
 ### 2023
 
-![](https://floof.farm/wp-content/uploads/2023/09/Screenshot-2023-09-30-at-6.56.51-AM.png)
+![](/images/2023-09-Screenshot-2023-09-30-at-6.56.51-AM.png)
 
 ## [
 ](https://adgagenetics.org/GoatDetail.aspx?RegNumber=D001725015)

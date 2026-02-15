@@ -7,14 +7,14 @@ categories:
   - "Bucks"
 author: "wonderchook"
 type: "bucks"
-featured_image: "https://i0.wp.com/floof.farm/wp-content/uploads/2023/09/20230917_104053_resized-Large-1024x954.jpeg?ssl=1"
+featured_image: "/images/2023-09-20230917_104053_resized-Large-1024x954.jpeg"
 ---
 
 SDS Farm ZQ Big Tuna Quinn is a lovely buckling from [Sunny Days Farm](https://sunnydaysfarmwa.weebly.com/), I especially appreciate his length and his rear angulation. This guy's pedigree is packed with champions, I first admired his sire when he was a baby being shown in the PNW.Tuna is the only goat I brought in during 2023 with the goal of having an outcross to combine with some of my Kat line, unfortunately for 2024 kidding season he only produced one doeling. I'm going to try again heavily in for 2025! 
 
-![](https://i0.wp.com/floof.farm/wp-content/uploads/2023/09/20230917_104053_resized-Large-1024x954.jpeg?ssl=1)
+![](/images/2023-09-20230917_104053_resized-Large-1024x954.jpeg)
 
-![](https://i2.wp.com/floof.farm/wp-content/uploads/2023/09/20230917_104106-1-Large-1-591x1024.jpeg?ssl=1)
+![](/images/2023-09-20230917_104106-1-Large-1-591x1024.jpeg)
 
 ## SDS Farm ZQ Big Tuna Quinn's Pedigree
 

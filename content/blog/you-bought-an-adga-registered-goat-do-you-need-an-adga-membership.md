@@ -17,7 +17,7 @@ The inspriation behind this post is that I sold a few does in milk to someone wh
 
 This instructions are specifically the pieces to transferring an [American Dairy Goat Association ](https://adga.org/)(ADGA) registered goat. There are other registers out there and for the most part I won't get into them here.
 
-![Lacey one of the first goats where we learned about registering goats with ADGA](https://floof.farm/wp-content/uploads/2019/10/img_20190722_162058387.jpg)
+![Lacey one of the first goats where we learned about registering goats with ADGA](/images/2019-10-img_20190722_162058387.jpg)
 *Diji Bryedal Lace aka Lacey our first registered goat*
 
 ## Why you should transfer the goat
@@ -54,7 +54,7 @@ You can get a membership by sending in a paper form, but if you are reading this
 
 Right now you can only transfer goats by mail, so despite doing everything online up until this point you will need to mail the current papers to ADGA to transfer them to your name. Everything at the bottom of the registration should already be filled out and you'll want to add your new member ID under "BUYER ID". 
 
-![](https://floof.farm/wp-content/uploads/2023/12/20231216_112344-1024x443.jpg)
+![](/images/2023-12-20231216_112344-1024x443.jpg)
 
 You can submit payment with the transfer you are mailing in, but personally I prefer to put money in my account online instead. I also scan the registrations so I have a copy before mailing them. 
 

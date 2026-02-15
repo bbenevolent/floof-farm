@@ -10,7 +10,7 @@ author: "wonderchook"
 
 I've tried to do milk test almost every year since I started milking my goats. Milk test is where you weigh, sample and have your milk analyzed by a lab on a regular basis. 2023 is the first year where I feel like I'm doing it well. What helps motivate me and keeps me going might not be what motivates you. What is easier for me also might not be easier for you. Below is what I do as well as a bit more information. 
 
-![](https://floof.farm/wp-content/uploads/2019/10/20210815_083927.jpg)
+![](/images/2019-10-20210815_083927.jpg)
 *Marble, the first goat in our herd to reach a minimum in any component*
 
 ## Introduction to Milk Test

@@ -15,4 +15,4 @@ Dam: [SG Franke Farm PN Coach](https://adgagenetics.org/GoatDetail.aspx?RegNumbe
 
 For Sale: $400.00 ($475.00 bred) 
 
-- ![](https://floof.farm/wp-content/uploads/2021/08/20210809_121635.jpg)- ![](https://floof.farm/wp-content/uploads/2021/08/20210809_122232.jpg)
+- ![](/images/2021-08-20210809_121635.jpg)- ![](/images/2021-08-20210809_122232.jpg)

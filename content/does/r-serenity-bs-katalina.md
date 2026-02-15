@@ -7,7 +7,7 @@ categories:
   - "Does"
 author: "wonderchook"
 type: "does"
-featured_image: "https://floof.farm/wp-content/uploads/2023/04/Katalina-side.jpg"
+featured_image: "/images/2023-04-Katalina-side.jpg"
 ---
 
 **NOTE**: For 2024 Katalina is bred to [SDS Farm ZQ Big Tuna Quinn](https://floof.farm/2023/09/03/sds-farm-zq-big-tuna-quinn/) and due March 23rd. Reservations available, see our [breeding schedule for more information](https://floof.farm/2024-goat-breeding-schedule/).  
@@ -32,11 +32,11 @@ Dam's Dam: Sans Gene K Eowyn
 
 [Link to full pedigree](https://adgagenetics.org/GoatDetail.aspx?RegNumber=D001929393)
 
-![Nigerian Dwarf Goat R Serenity BS Katalina  with Best of Breed Ribbon](https://floof.farm/wp-content/uploads/2023/04/Katalina-side.jpg)
+![Nigerian Dwarf Goat R Serenity BS Katalina  with Best of Breed Ribbon](/images/2023-04-Katalina-side.jpg)
 
-![Nigerian Dwarf Goat R Serenity BS Katalina Udder with Best of Breed Ribbon](https://floof.farm/wp-content/uploads/2023/04/katalina-rear.jpg)
+![Nigerian Dwarf Goat R Serenity BS Katalina Udder with Best of Breed Ribbon](/images/2023-04-katalina-rear.jpg)
 
-![Nigerian Dwarf Goat R Serenity BS Katalina Udder at ADGA Nationals 2023](https://floof.farm/wp-content/uploads/2023/07/20230719_160125-1-582x1024.jpg)
+![Nigerian Dwarf Goat R Serenity BS Katalina Udder at ADGA Nationals 2023](/images/2023-07-20230719_160125-1-582x1024.jpg)
 
 ## Accomplishments
 
@@ -59,4 +59,4 @@ Dam's Dam: Sans Gene K Eowyn
 
 ## Milk Records
 
-![](https://floof.farm/wp-content/uploads/2023/09/Screenshot-2023-09-30-at-6.16.41-AM-865x1024.png)
+![](/images/2023-09-Screenshot-2023-09-30-at-6.16.41-AM-865x1024.png)

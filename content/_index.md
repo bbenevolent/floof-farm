@@ -8,10 +8,10 @@ author: "wonderchook"
 Floof Farm is a Washington dairy goat farm based in Winlock. We breed American Dairy Goat Association (ADGA) Registered [Nigerian Dwarf](https://andda.org/) and [Toggenburg Dairy](https://www.nationaltoggclub.org/) Goats. Established in 2017 we originally started out wanting goats just for milk and welcomed our first 3 Nigerian Dwarf goats. Now we breed and sell dairy goats for competing, home milking, brush clearing, pets and fun!
 
 <div class="hero-photos-grid">
-  <img class="hero-tall" src="https://i1.wp.com/floof.farm/wp-content/uploads/2023/07/received_658223965886066-2.jpg?ssl=1" alt="Floof Farm goats">
+  <img class="hero-tall" src="/images/2023-07-received_658223965886066-2-0f9800.jpg" alt="Floof Farm goats">
   <div class="hero-stack">
-    <img src="https://i2.wp.com/floof.farm/wp-content/uploads/2023/07/20230719_162039-2.jpg?ssl=1" alt="Floof Farm goats">
-    <img src="https://i1.wp.com/floof.farm/wp-content/uploads/2023/10/20231019_173544-1-975x1024.jpg?ssl=1" alt="Floof Farm goats">
+    <img src="/images/2023-07-20230719_162039-2-ab2ea8.jpg" alt="Floof Farm goats">
+    <img src="/images/2023-10-20231019_173544-1-975x1024-d4164f.jpg" alt="Floof Farm goats">
   </div>
 </div>
 

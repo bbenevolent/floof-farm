@@ -11,10 +11,10 @@ My prices vary depending on the quality of the parents, the quality of the offsp
 
 ### 4 or more freshenings
 
-<table class="has-fixed-layout"><tbody><tr><td>Sire</td><td>Dam</td><td>Due Date/Results</td><td>Notes</td></tr><tr><td>![SDS ZQ Big Tuna Quinn](https://floof.farm/wp-content/uploads/2023/09/20230917_104053_resized-Large.jpeg)
+<table class="has-fixed-layout"><tbody><tr><td>Sire</td><td>Dam</td><td>Due Date/Results</td><td>Notes</td></tr><tr><td>![SDS ZQ Big Tuna Quinn](/images/2023-09-20230917_104053_resized-Large.jpeg)
 [SDS Farm ZQ Big Tuna Quinn](https://floof.farm/2023/09/03/sds-farm-zq-big-tuna-quinn/) 
 
-[Floof Farm TL Katsuta ](https://floof.farm/2023/09/30/floof-farm-tl-katsuta/)</td><td>![Night Heron Farm JB Katniss](https://floof.farm/wp-content/uploads/2023/06/20230610_150741-2.jpg)
+[Floof Farm TL Katsuta ](https://floof.farm/2023/09/30/floof-farm-tl-katsuta/)</td><td>![Night Heron Farm JB Katniss](/images/2023-06-20230610_150741-2.jpg)
 [CH Night Heron Farm JB Katniss](https://floof.farm/2021/07/10/ch-night-heron-farm-jb-katniss/)
 </td><td>Kidded March 26th
 2 bucks (available)
@@ -24,8 +24,8 @@ First doe reserved
 
 Kids will need to be DNA'd as two bucks were used
 
-Katsuta kids could be polled</td></tr><tr><td>![SDS ZQ Big Tuna Quinn](https://floof.farm/wp-content/uploads/2023/09/20230917_104053_resized-Large.jpeg)
-[SDS Farm ZQ Big Tuna Quinn](https://floof.farm/2023/09/03/sds-farm-zq-big-tuna-quinn/)</td><td>![R Serenity BS Katalina](https://floof.farm/wp-content/uploads/2023/04/Katalina-side.jpg)
+Katsuta kids could be polled</td></tr><tr><td>![SDS ZQ Big Tuna Quinn](/images/2023-09-20230917_104053_resized-Large.jpeg)
+[SDS Farm ZQ Big Tuna Quinn](https://floof.farm/2023/09/03/sds-farm-zq-big-tuna-quinn/)</td><td>![R Serenity BS Katalina](/images/2023-04-Katalina-side.jpg)
 [R Serenity BS Katalina](https://floof.farm/r-serenity-bs-katalina/)
 VVVV85</td><td>Kidded March 25th
 2 bucks (available)
@@ -33,9 +33,9 @@ VVVV85</td><td>Kidded March 25th
 </td><td>
 Bucks: $400
 
-</td></tr><tr><td>![SDS ZQ Big Tuna Quinn](https://floof.farm/wp-content/uploads/2023/09/20230917_104053_resized-Large.jpeg)
+</td></tr><tr><td>![SDS ZQ Big Tuna Quinn](/images/2023-09-20230917_104053_resized-Large.jpeg)
 [SDS Farm ZQ Big Tuna Quinn](https://floof.farm/2023/09/03/sds-farm-zq-big-tuna-quinn/)</td><td>
-![R Serenity CF Katana](https://floof.farm/wp-content/uploads/2021/07/189908930_536498074027021_8761910477558229959_n-1.jpg)
+![R Serenity CF Katana](/images/2021-07-189908930_536498074027021_8761910477558229959_n-1.jpg)
 [R Serenity CF Katana ](https://floof.farm/2019/10/21/katana/) </td><td>Kidded March 25th
 3 bucks (available) </td><td>
 Wethers: $150
@@ -44,8 +44,8 @@ Polled possible</td></tr></tbody></table>
 
 ### 3rd Fresheners
 
-<table class="has-fixed-layout"><tbody><tr><td>Sire</td><td>Dam</td><td>Due Date/Results</td><td>Notes</td></tr><tr><td>![Floof Farm TL Indigo Kat](https://floof.farm/wp-content/uploads/2023/11/20231009_091946-2.jpg)
-[Floof Farm TL Indigo Kat](https://floof.farm/2023/05/02/floof-farm-tl-indigo-kat/)</td><td>![R Serenity Savanna Dry Cider](https://floof.farm/wp-content/uploads/2023/07/20230719_162039-2.jpg)
+<table class="has-fixed-layout"><tbody><tr><td>Sire</td><td>Dam</td><td>Due Date/Results</td><td>Notes</td></tr><tr><td>![Floof Farm TL Indigo Kat](/images/2023-11-20231009_091946-2.jpg)
+[Floof Farm TL Indigo Kat](https://floof.farm/2023/05/02/floof-farm-tl-indigo-kat/)</td><td>![R Serenity Savanna Dry Cider](/images/2023-07-20230719_162039-2.jpg)
 [R Serenity Savanna Dry Cider](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002091116)</td><td>Kidded February 27
 2 does
 1 buck (available)</td><td>Does: $500
@@ -61,15 +61,15 @@ Wethers: $150
 
 ### 2nd Fresheners
 
-<table class="has-fixed-layout"><tbody><tr><td>Sire</td><td>Dam</td><td>Due Date/Kidding Date</td><td>Notes</td></tr><tr><td>![Floof Farm TL Indigo Kat](https://floof.farm/wp-content/uploads/2023/11/20231009_091946-2.jpg)
-[Floof Farm TL Indigo Kat](https://floof.farm/2023/05/02/floof-farm-tl-indigo-kat/)</td><td>![Floof Farm BS Katsu](https://floof.farm/wp-content/uploads/2023/09/20230719_162947.jpg)
+<table class="has-fixed-layout"><tbody><tr><td>Sire</td><td>Dam</td><td>Due Date/Kidding Date</td><td>Notes</td></tr><tr><td>![Floof Farm TL Indigo Kat](/images/2023-11-20231009_091946-2.jpg)
+[Floof Farm TL Indigo Kat](https://floof.farm/2023/05/02/floof-farm-tl-indigo-kat/)</td><td>![Floof Farm BS Katsu](/images/2023-09-20230719_162947.jpg)
 [Floof Farm BS Katsu](https://floof.farm/2021/07/06/katsu/)</td><td>Kidded April 4th
 1 doe
 1 buck (available)</td><td>Does: $500
 Bucks: $400
 
-Polled possible</td></tr><tr><td>![Floof Farm TL Indigo Kat](https://floof.farm/wp-content/uploads/2023/11/20231009_091946-2.jpg)
-[Floof Farm TL Indigo Kat](https://floof.farm/2023/05/02/floof-farm-tl-indigo-kat/)</td><td>![R Serenity PE Kitty Kat](https://floof.farm/wp-content/uploads/2023/10/20230719_161421.jpg)
+Polled possible</td></tr><tr><td>![Floof Farm TL Indigo Kat](/images/2023-11-20231009_091946-2.jpg)
+[Floof Farm TL Indigo Kat](https://floof.farm/2023/05/02/floof-farm-tl-indigo-kat/)</td><td>![R Serenity PE Kitty Kat](/images/2023-10-20230719_161421.jpg)
 [R Serenity PE Kitty Kat](https://floof.farm/2023/10/05/r-serenity-pe-kitty-kat/)</td><td>Kidded March 3rd
 3 bucks (available)</td><td>
 Does: $400

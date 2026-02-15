@@ -16,7 +16,7 @@ There are lots of different ways to provide goat minerals. The way I have settle
 
 Before I even had goats I heard of them eating what they need for their environment. It is mentioned in a book called [The Dorito Effect](https://www.markschatzker.com/doritoeffect-home-page) by Mark Schatzker which is about the impact of artificial flavorings in our foods. The premise being that the flavorings fool our body and effect our ability to intuitively eat in the way goats do. My interest in our food system is one of the reasons I got goats in the first place. Fast forward a couple years and rather than just reading about goats I'm managing them. 
 
-![](https://floof.farm/wp-content/uploads/2023/12/bookphoto-954x1024.jpg)
+![](/images/2023-12-bookphoto-954x1024.jpg)
 
 The premise behind goats eating what they need is why many people use mineral buffets. In a mineral buffet you offer little containers of each type of mineral and the goats consume what they need. For me this is too complicated a management style for my herd. 
 
@@ -26,10 +26,10 @@ The main reason that goats consume loose minerals is actually the salt. Not the 
 
 What I do is very simple, I provide loose minerals from [Sweetlix](https://www.sweetlix.com/products/goats/1090). One variety ([Magnum Milk](https://www.sweetlix.com/products/magnum-milk/7697)) if they are on milk and eating a lot of alfalfa and another ([Meat Maker](https://www.sweetlix.com/products/meat-maker/7696)) if they are not eating a lot of alfalfa. I have two styles of mineral feeders, one for my does since they have a barn and the other for my bucks. 
 
-![](https://floof.farm/wp-content/uploads/2023/12/20231223_105121-Large-665x1024.jpeg)
+![](/images/2023-12-20231223_105121-Large-665x1024.jpeg)
 *Doe mineral feeder from Syell*
 
-![](https://floof.farm/wp-content/uploads/2023/12/20231223_105400-Large-592x1024.jpeg)
+![](/images/2023-12-20231223_105400-Large-592x1024.jpeg)
 *Buck mineral feeder from Tarter*
 
 ### Additional minerals
@@ -38,5 +38,5 @@ The only other thing I do mineral-wise is if a goat is looking a bit rough I giv
 
 My methods for minerals is pretty simple, but it has been working for me the past couple years. Sometimes the simplest is the best, at least for my farm and management. 
 
-![Floof Farm TL Katsu Koto eating minerals at a mineral feeder](https://floof.farm/wp-content/uploads/2023/12/20231207_152800-1-1008x1024.jpg)
+![Floof Farm TL Katsu Koto eating minerals at a mineral feeder](/images/2023-12-20231207_152800-1-1008x1024.jpg)
 *[Koto](https://floof.farm/2023/09/30/floof-farm-tl-katsu-koto/), a customer of the mineral feeder*

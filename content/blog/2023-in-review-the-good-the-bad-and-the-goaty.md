@@ -29,7 +29,7 @@ Our own girls did respectably with our 9th place heavy ribbon collections:
 
 - Floof Farm 14th Place Dairy Herd
 
-![](https://floof.farm/wp-content/uploads/2023/07/received_658223965886066-2.jpg)
+![](/images/2023-07-received_658223965886066-2.jpg)
 
 ## Milk test
 
@@ -39,7 +39,7 @@ Our own girls did respectably with our 9th place heavy ribbon collections:
 
 A real game changer for us was using lambars for kid rearing. We've tried dam raises, milk sharing, bottle raising and lambars really made it manageable this year. In 2022 we were constantly fiddling and warming bottles, just having one bucket of milk to distribute was much better. 
 
-![](https://floof.farm/wp-content/uploads/2023/10/20230406_114210-Large-1024x871.jpeg)
+![](/images/2023-10-20230406_114210-Large-1024x871.jpeg)
 
 ## Moving kids to new homes
 

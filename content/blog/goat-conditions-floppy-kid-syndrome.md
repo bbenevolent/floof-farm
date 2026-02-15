@@ -35,5 +35,5 @@ In the future I will milk everyone day one. I think this helps to keep the milk 
 
 Finally if I see kids acting the way these two did I will not provide milk and will start with baking soda and electrolytes immediately. It was a sad expensive lesson to learn and I want to make sure I really do learn from it. 
 
-![](https://floof.farm/wp-content/uploads/2023/12/20230408_163800-Large-1024x768.jpeg)
+![](/images/2023-12-20230408_163800-Large-1024x768.jpeg)
 *A very floppy kid*

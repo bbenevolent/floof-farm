@@ -30,7 +30,7 @@ Often while milking I make up parody songs about goats. My favorite this fall ha
 
 When I first start milking goats the milking schedule would really get to me after a few months and I would dry up all the does after show season ended. I made some attempts at milk test, but never was really able to finish a whole lactation. This year at one point I put most of my goats on once a day milking, but was depressed at the difference in quantity of milk. That is when I decided to stop trying to be perfect. The only milking schedules are not either once a day or 12 hours perfectly apart. For me milking at 9am and 5pm is a schedule that works well for my lifestyle. 
 
-![](https://floof.farm/wp-content/uploads/2023/12/20230801_200400-Large-1024x478.jpeg)
+![](/images/2023-12-20230801_200400-Large-1024x478.jpeg)
 *Goats lined up in our milk stand. We generally milk 5 or 6 at a time.*
 
 ## Milking Schedules
@@ -67,5 +67,5 @@ The reason I went through all these schedules was to show it is important to fin
 
 I work remotely for a global organization and the 9-to-5 works for me as I'm able to start work at 6am and put in almost a full day before I milk. Morning milking time is my lunch break/farm chore time. I then return to work and finish out the day. Some of the more complicated schedules while interesting to me wouldn't work as having the same schedule Monday - Friday and keeping up milk production are the two variables most important to me. 
 
-![](https://floof.farm/wp-content/uploads/2023/12/20231227_105720-Large-1024x662.jpeg)
+![](/images/2023-12-20231227_105720-Large-1024x662.jpeg)
 *Katniss getting her final bites in when I was late for the 9am milking recently*

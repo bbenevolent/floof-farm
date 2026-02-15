@@ -46,4 +46,4 @@ I have never tried feeding milk replacer, some people say it is terrible. Maybe 
 
 There are certainly more things to think of when raising baby goats such as [their overall care](https://floof.farm/2023/10/22/how-we-raise-goat-kids-currently/), but usually it starts with milk.
 
-![](https://floof.farm/wp-content/uploads/2024/02/20240218_161637-644x1024.jpg)
+![](/images/2024-02-20240218_161637-644x1024.jpg)

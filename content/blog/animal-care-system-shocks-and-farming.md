@@ -17,7 +17,7 @@ Most of the time I give a cheery view of #farmlife, but it isn't always sunshine
 
 One of the things that has been simply hard over the past couple months is caring and worrying about our first Livestock Guardian Dog, Ada Floofington. Ada is a [Maremma Sheepdog](https://en.wikipedia.org/wiki/Maremmano-Abruzzese_Sheepdog) and was one of the first critters we brought home to Floof Farm. 
 
-![Ada as a puppy](https://floof.farm/wp-content/uploads/2023/04/young-ada-1024x616.jpg)
+![Ada as a puppy](/images/2023-04-young-ada-1024x616.jpg)
 *Ada as a puppy*
 
 A couple months ago we discovered a large lump on Ada's side and took her to the vet where they biopsied it. It is never good when the vet calls you the next day with a change in treatment plan from what we decided the day before. It turns out Ada had a [Mast Cell Tumor](https://vcahospitals.com/know-your-pet/mast-cell-tumors-in-dogs) which is pretty common in dogs, but certainly needed treatment. We were able to shrink the lump with medication and it became possible for her to have surgery. 
@@ -26,10 +26,10 @@ That surgery happened 6 days ago from the writing of this blog post. We don't kn
 
 Now almost a week into recovery Ada has gotten used to the routine and is not as heavily drugged. She really has been a very good patient and hopefully the next week or two of indoor recovery go smoothly.  
 
-![Ada looking very high with an icepack](https://floof.farm/wp-content/uploads/2023/04/high-ada-1024x717.jpg)
+![Ada looking very high with an icepack](/images/2023-04-high-ada-1024x717.jpg)
 *Ada with an ice pack looking very drugged*
 
-![Ada right after coming home from surgery](https://floof.farm/wp-content/uploads/2023/04/ada-after-surgery-1024x743.jpg)
+![Ada right after coming home from surgery](/images/2023-04-ada-after-surgery-1024x743.jpg)
 *Ada the day of surgery*
 
 ## Other effects of Ada's surgery

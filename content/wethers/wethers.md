@@ -16,4 +16,4 @@ Price: $175
 
 Price: $175
 
-- ![](https://floof.farm/wp-content/uploads/2021/07/2021-_07_08-floof-farm-342-of-350.jpg?w=684)- ![](https://floof.farm/wp-content/uploads/2021/07/2021-_07_08-floof-farm-344-of-350.jpg?w=1024)- ![](https://floof.farm/wp-content/uploads/2021/07/2021-_07_08-floof-farm-347-of-350.jpg?w=684)- ![](https://floof.farm/wp-content/uploads/2021/07/2021-_07_08-floof-farm-340-of-350.jpg?w=1024)
+- ![](/images/2021-07-2021-_07_08-floof-farm-342-of-350.jpg)- ![](/images/2021-07-2021-_07_08-floof-farm-344-of-350.jpg)- ![](/images/2021-07-2021-_07_08-floof-farm-347-of-350.jpg)- ![](/images/2021-07-2021-_07_08-floof-farm-340-of-350.jpg)

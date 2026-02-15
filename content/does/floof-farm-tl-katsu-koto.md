@@ -7,7 +7,7 @@ categories:
   - "Does"
 author: "wonderchook"
 type: "does"
-featured_image: "https://floof.farm/wp-content/uploads/2023/09/20230717_132443-1024x842.jpg"
+featured_image: "/images/2023-09-20230717_132443-1024x842.jpg"
 ---
 
 I didn't keep very many doelings in 2023, but Koto is really special. I adore her dam Katsu and just wish for a little more width from her. I think Koto has that. The one Time Lord daughter I've freshened so far had a very tucked up udder, I'm curious to see what this combination brings. 
@@ -26,4 +26,4 @@ Dam's Dam: [R Serenity CF Katana](https://floof.farm/2019/10/21/katana/) VGVV 85
 
 [Link to full pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002317572)
 
-![](https://floof.farm/wp-content/uploads/2023/09/20230717_132443-1024x842.jpg)
+![](/images/2023-09-20230717_132443-1024x842.jpg)

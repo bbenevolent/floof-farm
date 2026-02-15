@@ -13,7 +13,7 @@ author: "wonderchook"
 
 I'm not a big one for New Years resolutions, but I do have some idea of the things I want to do differently in 2024. Yesterday I wrote more of a [review of 2023](https://floof.farm/2023/12/31/2023-in-review-the-good-the-bad-and-the-goaty/), and this post is about the new things I want to try in 2024. 
 
-![](https://floof.farm/wp-content/uploads/2024/01/20231006_132140-Large-837x1024.jpeg)
+![](/images/2024-01-20231006_132140-Large-837x1024.jpeg)
 
 ## New in kid rearing
 

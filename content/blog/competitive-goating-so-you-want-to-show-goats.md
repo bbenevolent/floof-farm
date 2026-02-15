@@ -39,7 +39,7 @@ Classes are by age and especially for your first couple shows I wouldn't recomme
 
 The classes where the doe is not in milk and is up to two years old is Juniors. Many shows have junior classes but not all. Showing kids is a great way to get started as you don't have to worry about udders which is another variable in show prep. This is how I got started. 
 
-![](https://floof.farm/wp-content/uploads/2023/12/IMG_20190921_085140688-Large-1024x768.jpeg)
+![](/images/2023-12-IMG_20190921_085140688-Large-1024x768.jpeg)
 *Junior goats waiting their turn*
 
 The main things to do a bit in advance to prepare a junior for the show tattoo, trim and train. 
@@ -82,7 +82,7 @@ I generally try to arrive at the show the day before. I find it gives me time to
 
 Typically I milk at my normal time in the morning and load the does I'm taking to the show in the trailer directly after milking. I make sure that they have plenty of water and hay in the trailer as they drink most of the water they are going to drink right after milking. After I'm done I load any juniors I might be taking and do a final check on everything. 
 
-![](https://floof.farm/wp-content/uploads/2023/12/20230715_070724-Large-1024x478.jpeg)
+![](/images/2023-12-20230715_070724-Large-1024x478.jpeg)
 *Goats loaded up and on their way to Nationals in 2023*
 
 While traveling I stop every couple hours to check on the goats and give them a chance to stand-up a drink. While in motion they generally lay down and are not eating or drinking. 
@@ -93,7 +93,7 @@ Sometimes you know where you pens are before arriving, sometimes you have to loo
 
 I then go park as close as I can to unload. I start by pulling all the goats out first and then move their hay bags into their stalls. Then I unload everything else. Typically there is an unloading zone at shows and then it is polite to quickly move elsewhere so the next herd can unload. That is what I do next. 
 
-![](https://floof.farm/wp-content/uploads/2023/12/IMG_20190918_180357933-Large-1024x597.jpeg)
+![](/images/2023-12-IMG_20190918_180357933-Large-1024x597.jpeg)
 *Set-up for Washington State Fair in 2019*
 
 ## Check-in
@@ -110,5 +110,5 @@ Most shows start at 8 or 9am so I get up pretty early to make sure I'm ready. Ge
 
 Next up I present my goats in each of their classes and have a good time! The process of showing is a topic in itself, I hope this one was helpful. Hope to see me and my herd at a show? We [maintain a list of shows ](https://floof.farm/adga-goat-shows/)we have attended and ones we hope to attend. ADGA also has a [public list of the sanctioned shows](https://adga.org/adga-sanctioned-show-list/) on their website. 
 
-![R Serenity BS Katalina](https://floof.farm/wp-content/uploads/2023/04/Katalina-side.jpg)
+![R Serenity BS Katalina](/images/2023-04-Katalina-side.jpg)
 *[Katalina](https://floof.farm/2023/04/16/r-serenity-bs-katalina/) showing off her ribbons at the ISDGA Goat Show*

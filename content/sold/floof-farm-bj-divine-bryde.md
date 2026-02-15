@@ -7,7 +7,7 @@ categories:
   - "Sold"
 author: "wonderchook"
 type: "sold"
-featured_image: "https://floof.farm/wp-content/uploads/2024/03/diva-1024x683.jpeg"
+featured_image: "/images/2024-03-diva-1024x683.jpeg"
 ---
 
 Note: Diva has moved to a 4-H home. 
@@ -26,5 +26,5 @@ Dam: Diji Bryedal Lace
 
      Dam's Dam: Diji Pal's Runaway Bryde 
 
-![](https://floof.farm/wp-content/uploads/2024/03/diva-1024x683.jpeg)
+![](/images/2024-03-diva-1024x683.jpeg)
 *Picture courtesy of Photography_bytae*

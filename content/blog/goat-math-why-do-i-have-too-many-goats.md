@@ -59,7 +59,7 @@ If you are going to individually you need to have a plan. In my case my website 
 
 Finally you spend a lot of time with your goats, make sure it doesn't become so overwhelming you aren't enjoying it anymore. I started the year with over 70 goats and made a real effort to get my numbers down to something more manageable. For me that is about 40 goats. To keep some kids from the [2024 kidding season](https://floof.farm/2024-goat-breeding-schedule/) though I'm going to have to make a few more decisions. 
 
-![](https://floof.farm/wp-content/uploads/2023/12/20231022_104342-2-Large-1024x584.jpeg)
+![](/images/2023-12-20231022_104342-2-Large-1024x584.jpeg)
 *Keeping goat math under control allows me to do silly things like dress goats up in costumes*
 
 ## Happy goating

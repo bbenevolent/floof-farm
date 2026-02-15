@@ -16,7 +16,7 @@ One of the key competitive goating activities I enjoy is showing. At the center 
 
 When I first got started showing I was just trying to keep my goat between myself and the judge. I had learned to clip from a friend and was showing dry yearlings, not worrying about clipping udders yet. At my very first show my yearling ended up 1st in a class of 30. I was excited about our placing. Though I couldn't really tell you why she was nicer than any of the other goats in that class. Later I learned about the ADGA unified Scorecard, which is the tool used to rank goats in the show ring. According to ADGA it "is to aid in the selection of the type of dairy goat that can function efficiently over a long productive lifetime." 
 
-[![ADGA Unified Scorecard](https://floof.farm/wp-content/uploads/2024/01/Screenshot-2024-01-20-at-8.00.10 PM-793x1024.png)](https://adga.org/adga-shows-scorecard/)
+[![ADGA Unified Scorecard](/images/2024-01-Screenshot-2024-01-20-at-8.00.10 PM-793x1024.png)](https://adga.org/adga-shows-scorecard/)
 *ADGA Unified Scorecard*
 
 The ADGA Unified Scorecard has different division of points for Senior Does, Junior Does and Bucks. All three are still on a hundred point scale, but different pieces have different importance. If you spend much time on various confirmation related goat groups you'll see people say things like "X only accounts for X amount of points" or "Y is really important as it is Y amount of points." They are referring to parts of the scorecard when they do that.
@@ -25,5 +25,5 @@ I am not going to go deeply into all the components in this post, it is more int
 
 I personally have not memorized the ADGA Unified Scorecard yet, I do try to keep the pieces in my mind. I suspect eventually I'll get there. Happy Competitive Goating and [see you at a show](https://floof.farm/adga-goat-shows/)!
 
-![Tired goats at a goat show](https://floof.farm/wp-content/uploads/2024/01/20230701_192712-1024x478.jpg)
+![Tired goats at a goat show](/images/2024-01-20230701_192712-1024x478.jpg)
 *Savy and Twyla after a hard day of competitive goat*

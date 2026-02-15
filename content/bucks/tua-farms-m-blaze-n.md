@@ -13,8 +13,8 @@ Dam: Camanna RA Uliana *M FS86 (AEEV)
 
 [Link to full pedigree](https://adgagenetics.org/GoatDetail.aspx?RegNumber=D002008580)
 
-![](https://floof.farm/wp-content/uploads/2021/07/2021-_07_08-floof-farm-64-of-350.jpg?w=1024)
+![](/images/2021-07-2021-_07_08-floof-farm-64-of-350.jpg)
 
-![](https://floof.farm/wp-content/uploads/2021/07/2021-_07_08-floof-farm-66-of-350.jpg?w=684)
+![](/images/2021-07-2021-_07_08-floof-farm-66-of-350.jpg)
 
-![](https://floof.farm/wp-content/uploads/2019/10/img_20190822_131316679.jpg?w=723)
+![](/images/2019-10-img_20190822_131316679.jpg)
