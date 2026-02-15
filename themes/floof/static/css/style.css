@@ -478,3 +478,47 @@ p { margin-bottom: 1.2rem; }
   color: var(--text-light, #666);
   text-align: center;
 }
+.photo-card img {
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+.photo-card img:hover {
+  transform: scale(1.02);
+}
+
+/* Lightbox */
+.lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.9);
+  z-index: 9999;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 2rem;
+}
+.lightbox.active {
+  display: flex;
+}
+.lightbox img {
+  max-width: 90vw;
+  max-height: 80vh;
+  border-radius: 8px;
+  object-fit: contain;
+}
+.lightbox p {
+  color: #fff;
+  margin-top: 1rem;
+  font-size: 1rem;
+  text-align: center;
+}
+.lightbox-close {
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+  color: #fff;
+  font-size: 2.5rem;
+  cursor: pointer;
+  line-height: 1;
+}
