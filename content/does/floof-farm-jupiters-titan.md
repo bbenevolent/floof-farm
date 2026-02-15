@@ -4,10 +4,10 @@ date: 2026-02-14T08:00:00-08:00
 draft: false
 slug: "floof-farm-jupiters-titan"
 author: "wonderchook"
-featured_image: "/images/placeholder-goat.png"
+featured_image: "/images/titan-grand-champion.jpg"
 ---
 
-Page coming soon!
+Titan is our first home-bred Toggenburg and we couldn't be prouder of her. She's already making a name for herself in the ring.
 
 Sire's Sire: Legendairy RHS Rhembrandt
 Sire: Moss-Ridge Rhem's Jupiter
