@@ -270,6 +270,16 @@ p { margin-bottom: 1.2rem; }
   color: var(--text);
   margin-bottom: 1rem;
 }
+.goat-profile img {
+  max-width: 400px;
+  max-height: 400px;
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+  margin: 1rem 0;
+}
 .goat-profile .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -278,6 +288,7 @@ p { margin-bottom: 1.2rem; }
 }
 .goat-profile .gallery img {
   width: 100%;
+  max-width: 100%;
   height: 250px;
   object-fit: cover;
 }
