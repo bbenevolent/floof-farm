@@ -9,8 +9,12 @@
 
   {{ $section := .Section }}
   {{ if or (eq $section "does") (eq $section "bucks") (eq $section "sold") (eq $section "wethers") (eq $section "for-sale") }}
+
+  {{/* Active goats (not rainbow bridge) */}}
+  {{ $active := where .RegularPages ".Params.rainbow_bridge" "!=" true }}
+  {{ if $active }}
   <div class="goat-grid">
-    {{ range .RegularPages }}
+    {{ range $active }}
     <div class="goat-card">
       {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . }}" alt="{{ $.Title }}">{{ end }}
       <div class="goat-card-body">
@@ -24,6 +28,24 @@
     </div>
     {{ end }}
   </div>
+  {{ end }}
+
+  {{/* Rainbow Bridge section */}}
+  {{ $bridge := where .RegularPages ".Params.rainbow_bridge" true }}
+  {{ if $bridge }}
+  <h2 style="text-align: center; margin: 3rem 0 1rem; color: var(--text-light);">🌈 Rainbow Bridge</h2>
+  <div class="goat-grid">
+    {{ range $bridge }}
+    <div class="goat-card" style="opacity: 0.85;">
+      {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . }}" alt="{{ $.Title }}">{{ end }}
+      <div class="goat-card-body">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+
   {{ else }}
   <div class="content-narrow" style="padding-top: 0;">
     {{ range .Paginator.Pages }}

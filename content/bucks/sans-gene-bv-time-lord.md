@@ -3,6 +3,7 @@ title: "Sans Gene BV Time Lord"
 date: 2021-07-07T01:52:42-08:00
 draft: false
 slug: "sans-gene-bv-time-lord"
+rainbow_bridge: true
 categories:
   - "Bucks"
 author: "wonderchook"
