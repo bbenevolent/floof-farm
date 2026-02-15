@@ -1,10 +1,12 @@
 ---
 title: "For Sale"
-date: 2020-01-26T14:18:41-08:00
-slug: "for-sale"
-author: "wonderchook"
+description: "Goats available from Floof Farm"
 ---
 
-No goats currently for sale. Please check-out our [breeding schedule](https://floof.farm/2020-breeding-schedule/) if you are interested in reservations. I may have a couple does in milk for sale in the April/May time frame after kidding.
+## 2025 Kids Coming Soon!
 
-- ![](https://floof.farm/wp-content/uploads/2020/01/20200103_163104.jpg?w=1024)
+Kidding starts **March 20th** — check back for updates on available kids and goats for sale.
+
+In the meantime, feel free to [contact us](/contact/) to get on our reservation list or ask questions about upcoming breedings. You can also check out our [2025 Breeding Schedule](/2025-goat-breeding-schedule/) to see what we have planned.
+
+For details on how we handle sales, see our [Sales Policy](/sales-policy/).

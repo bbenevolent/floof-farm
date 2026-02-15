@@ -7,6 +7,7 @@ categories:
   - "For Sale"
 author: "wonderchook"
 ---
+draft: true
 
 In our quest to get down to 30 goats overall I need to over a few does for sale. 
 

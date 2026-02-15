@@ -7,6 +7,7 @@ categories:
   - "For Sale"
 author: "wonderchook"
 ---
+draft: true
 
 Princess Buttercup aka PB is a farm favorite. If her favorite person yells "PB, PB" she calls back and comes running. Not only does she have a sterling personality, but she is also a stylish doe. I like the way she carries herself, her width (thanks Sans Gene!) and her dairy strength in particular. 
 

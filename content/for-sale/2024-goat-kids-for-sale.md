@@ -7,6 +7,7 @@ categories:
   - "For Sale"
 author: "wonderchook"
 ---
+draft: true
 
 Here we will list any goats kids for sale that are generally available and don't have a reservation. I update this page frequently. Kids are listed here until either a deposit is received or they have left the farm. [My sales policy is pretty simple](https://floof.farm/sales-policy/) and publicly available. Pick-up is assumed on my farm in Winlock, WA unless other arrangements are made. 
 

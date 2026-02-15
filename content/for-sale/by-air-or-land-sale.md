@@ -8,6 +8,7 @@ categories:
 description: "Help me decide if I fly or drive. I am putting a few lovely goats on offer and able to deliver them along my proposed route."
 author: "wonderchook"
 ---
+draft: true
 
 The 2nd week of July I'm headed to SoCal to pick-up a new addition. I can either drive both ways or fly down and drive back. Interested in a Floof Farm goat? Help me make the decision for me. 
 
