@@ -36,11 +36,6 @@ theme = 'floof'
     name = "Blog"
     url = "/blog/"
     weight = 6
-  [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 7
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
