@@ -28,4 +28,10 @@ Dam's Dam: [R Serenity CF Katana](https://floof.farm/2019/10/21/katana/) VGVV 85
 
 ![](/images/2023-09-20230717_132443-1024x842.jpg)
 
+![Blue Thing on the spool — queen of the yard](/images/blue-thing-spool.png)
+
+![Blue Thing at the Washington State Fair, 2025](/images/blue-thing-wa-state-fair-2025.png)
+
+![All worn out at Nationals 2025](/images/blue-thing-nationals-2025.png)
+
 ![Blue Thing at show](/images/blue-thing-show-2025.png)
