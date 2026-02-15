@@ -30,7 +30,7 @@ theme = 'floof'
     weight = 4
   [[menu.main]]
     name = "Shows"
-    url = "/shows/"
+    url = "/adga-goat-shows/"
     weight = 5
   [[menu.main]]
     name = "Blog"
