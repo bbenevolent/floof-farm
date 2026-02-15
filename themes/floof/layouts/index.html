@@ -9,10 +9,13 @@
   {{ .Content }}
 
   {{ $does := where (where .Site.RegularPages "Section" "does") ".Params.type" "does" }}
+  {{ $featured := where $does ".Params.weight" ">" 0 }}
+  {{ $unfeatured := where $does ".Params.weight" "<=" 0 }}
+  {{ $ordered := union (sort $featured "Params.weight" "asc") $unfeatured }}
   {{ if $does }}
   <h2 style="text-align: center; margin: 2rem 0 0.5rem; color: var(--dark-brown);">Our Does</h2>
   <div class="goat-grid">
-    {{ range first 6 (sort $does "Params.weight" "asc") }}
+    {{ range first 6 $ordered }}
     <div class="goat-card">
       {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . }}" alt="{{ $.Title }}">{{ end }}
       <div class="goat-card-body">
