@@ -5,7 +5,7 @@ slug: "2026-goat-breeding-schedule"
 author: "wonderchook"
 ---
 
-Our dairy goat breeding schedule is a work in progress until kids are born. We register our dairy goats with ADGA and breed Nigerian Dwarf goats and Toggenburg goats.
+Our dairy goat breeding schedule is a work in progress until kids are born. We register our dairy goats with ADGA and breed Nigerian Dwarf, Nubian and Toggenburg goats.
 
 I accept reservations at anytime in the year and they are free. More information on reservations is outlined in [my simple sales policy](https://floof.farm/sales-policy/). You can make a reservation or ask questions [by email](https://floof.farm/contact/) or [on Facebook](https://www.facebook.com/theflooffarm). Pick-up is at our farm in Winlock, WA unless other arrangements are made.
 

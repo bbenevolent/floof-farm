@@ -1,4 +1,4 @@
 ---
 title: "Does"
-description: "Our ADGA registered dairy does - Nigerian Dwarf and Toggenburg"
+description: "Our ADGA registered dairy does - Nigerian Dwarf, Nubian and Toggenburg"
 ---
