@@ -7,6 +7,32 @@ author: "wonderchook"
 
 We frequently attend ADGA Goat Shows, below are the shows we've attended and the ones we are looking forward to next. 
 
+## 2026
+
+Not all shows have been announced yet. Shows we are planning to attend so far:
+
+Kitsap Fuzzies (Kitsap, WA) May 2nd
+
+[NWABGC Udder Spectacular](https://www.northwestgoatclub.org/shows) (Monroe, WA) May 23rd & 24th
+
+[Northwest Oregon Dairy Goat Association Show](https://nwodga.org/) (Salem, OR) June 5th - 7th
+
+[Roseburg Dairy Goat Association Senior Doe Show](http://www.roseburggoats.org/) (Roseburg, OR) June 13th
+
+Washington State Fair (Puyallup, WA) - Dates TBD
+
+## 2025
+
+Kitsap Fuzzies (Kitsap, WA) May 3rd
+
+[Northwest Oregon Dairy Goat Association Show](https://nwodga.org/) (Salem, OR) May 30th
+
+Roseburg Dairy Goat Association Senior Doe Show (Roseburg, OR) June 14th
+
+[Barn in the USA](https://ccgoatassociation.wixsite.com/home/show) (Ridgefield, WA) June 27th
+
+Union County Show (La Grande, OR) August 9th
+
 ## 2024
 
 Not all shows have been announced yet, but I expect I will be attending a similar list to last year. The exception being that I am not likely taking the trek to Kentucky for Nationals. I hope a show that was cancelled because of Nationals comes back and I'm going to try to do at least one fair. For a more complete list of District 7 ADGA Shows there is a [pinned post ](https://www.facebook.com/groups/1110538625685211/posts/24662447956734280/)in the District 7 Facebook Group.
