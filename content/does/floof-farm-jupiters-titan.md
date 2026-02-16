@@ -18,4 +18,4 @@ Dam's Sire: Royal Cedars Sebastian Caliber
 Dam: [Moss-Ridge Cal's Twyla](https://floof.farm/does/moss-ridge-cals-twyla/)
 Dam's Dam: Moss-Ridge Rhem's Johnna
 
-[Full pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=T002392995)
+[Full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=T002392995)

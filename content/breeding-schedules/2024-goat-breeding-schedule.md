@@ -46,10 +46,10 @@ Polled possible</td></tr></tbody></table>
 
 <table class="has-fixed-layout"><tbody><tr><td>Sire</td><td>Dam</td><td>Due Date/Results</td><td>Notes</td></tr><tr><td>![Floof Farm TL Indigo Kat](/images/2023-11-20231009_091946-2.jpg)
 [Floof Farm TL Indigo Kat](https://floof.farm/2023/05/02/floof-farm-tl-indigo-kat/)</td><td>![R Serenity Savanna Dry Cider](/images/2023-07-20230719_162039-2.jpg)
-[R Serenity Savanna Dry Cider](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002091116)</td><td>Kidded February 27
+[R Serenity Savanna Dry Cider](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002091116)</td><td>Kidded February 27
 2 does
 1 buck (available)</td><td>Does: $500
-Bucks: $350</td></tr><tr><td>[Floof Farm TL Katsuta](https://floof.farm/2023/09/30/floof-farm-tl-katsuta/)</td><td>[Floof Farm BJ Divine Bryde](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002059462)</td><td>Kidded February 8th
+Bucks: $350</td></tr><tr><td>[Floof Farm TL Katsuta](https://floof.farm/2023/09/30/floof-farm-tl-katsuta/)</td><td>[Floof Farm BJ Divine Bryde](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002059462)</td><td>Kidded February 8th
 
 2 does (sold)
 1 buck (sold)</td><td></td></tr><tr><td>[Floof Farm TL Indigo Kat](https://floof.farm/2023/05/02/floof-farm-tl-indigo-kat/)</td><td>[Tua Farms MB Parkour Party](https://floof.farm/2021/11/14/tua-farms-mb-parkour-party/)</td><td>Kidded March 3rd
@@ -80,7 +80,7 @@ Polled possible</td></tr><tr><td>[Floof Farm TL Katsuta ](https://floof.farm/202
 1 buck (available)</td><td>Does: $400
 Wethers: $150
 
-Polled possible</td></tr><tr><td>[Moss-Ridge Rhem's Jupiter](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=T002014714)</td><td>[Moss-Ridge Cal’s Twyla ](https://floof.farm/2023/09/30/moss-ridge-cals-twyla/)(Toggenburg)</td><td>April 6, 2024
+Polled possible</td></tr><tr><td>[Moss-Ridge Rhem's Jupiter](http://genetics.adga.org/GoatDetail.aspx?RegNumber=T002014714)</td><td>[Moss-Ridge Cal’s Twyla ](https://floof.farm/2023/09/30/moss-ridge-cals-twyla/)(Toggenburg)</td><td>April 6, 2024
 2 does (1 available)
 1 buck (available as wether)</td><td>Does: $500
 Wethers: $150

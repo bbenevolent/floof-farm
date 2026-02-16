@@ -23,4 +23,4 @@ Dam: Night Heron Farm Hedy Lamarr
 
 Dam's Dam: Diji Farm SGW Greta Garbo
 
-[Full pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002164431)
+[Full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002164431)

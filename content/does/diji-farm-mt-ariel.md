@@ -19,6 +19,6 @@ Diji Farm MT Ariel is a goat we have always admired, having multiple Ariel grand
 Sire: Diji Farm SGW Moose Tracks
 Dam: Diji Farm SGW Cindrella
 
-[Link to full pedigree](https://adgagenetics.org/GoatDetail.aspx?RegNumber=D001692779)
+[Link to full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D001692779)
 
 ![](/images/2021-07-areil-sww-fair-1_2_orig.jpg)

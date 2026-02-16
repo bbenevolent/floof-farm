@@ -38,7 +38,7 @@ Dam: [R Serenity CF Katana](https://floof.farm/2019/10/21/katana/)
 
 Dam's Dam: [CH Night Heron Farm JB Katniss](https://floof.farm/2021/07/10/ch-night-heron-farm-jb-katniss/)
 
-[Link to full pedigree](https://adgagenetics.org/GoatDetail.aspx?RegNumber=D002093946)
+[Link to full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002093946)
 
 ## Lactation Records
 

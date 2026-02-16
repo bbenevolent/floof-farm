@@ -30,7 +30,7 @@ Dam: [Night Heron Farm JB Katniss](https://floof.farm/2021/07/10/ch-night-heron-
 
 Dam's Dam: Dans Gene K Eowyn
 
-[Link to full pedigree](https://adgagenetics.org/GoatDetail.aspx?RegNumber=D002010646)
+[Link to full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002010646)
 
 ![](/images/2021-07-189908930_536498074027021_8761910477558229959_n-1.jpg)
 

@@ -23,4 +23,4 @@ author: "wonderchook"
 
 Rosie joined the Floof Farm herd in 2025 — won through the Rosie Raffles at the Roseburg Goat Show! She's our first Nubian and a fun new addition to the farm.
 
-[Full pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N002445731)
+[Full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=N002445731)

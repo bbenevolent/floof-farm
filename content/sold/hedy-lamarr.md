@@ -17,7 +17,7 @@ Sold
 Dam: Diji Farm SGW Geta Garbo
 Sire: Almar Acres Black Sage
 
-[Link to full pedigree](https://adgagenetics.org/GoatDetail.aspx?RegNumber=D001952015)
+[Link to full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D001952015)
 
 ![](/images/2021-06-20210625_213925-1.jpg)
 

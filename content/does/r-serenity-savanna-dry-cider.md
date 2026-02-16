@@ -19,7 +19,7 @@ In June, 2025 Savvy went Grand Champion, Best of Breed and 1st Udder under Pete 
 Sire: Old Mountain Farm Blue Steel
 Dam: R Serenity NHF Sparkling Cider
 
-[Link to full pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002091116)
+[Link to full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002091116)
 
 ![](/images/2021-07-20250601_131816-1024x944.jpg)
 

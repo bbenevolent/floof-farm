@@ -29,7 +29,7 @@ Dam: Sans Gene K Eowyn EEEV 90
 
 Dam's Dam: Sans Gene GT Hermione EEEV 90
 
-[Link to full pedigree](https://adgagenetics.org/GoatDetail.aspx?RegNumber=D001725015)
+[Link to full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D001725015)
 
 ![](/images/2021-07-katniss-gch-3rd-leg-josephine-county-fair_orig.jpg)
 

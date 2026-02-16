@@ -14,7 +14,7 @@ Marble or "Marbs" as she is often called is one of the last "Frank Daughters" a 
 
 Dam: Sans Gene GT Cupcake
 Sire: Old Mountain Farm Frankincense
-[Link to full pedigree](https://adgagenetics.org/GoatDetail.aspx?RegNumber=D001937371)
+[Link to full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D001937371)
 
 ![](/images/2019-10-img_20190527_134626546.jpg)
 

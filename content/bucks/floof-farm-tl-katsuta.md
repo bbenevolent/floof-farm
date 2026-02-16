@@ -28,4 +28,4 @@ Dam: [Floof Farm BS Katsu](https://floof.farm/2021/07/06/katsu/) VEEE 90
 
 Dam's Dam: [R Serenity CF Katana](https://floof.farm/2019/10/21/katana/) VGVV 85
 
-[Link to full pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002335624)
+[Link to full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002335624)

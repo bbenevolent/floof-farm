@@ -17,7 +17,7 @@ Dalton is currently looking for a new herd to make an impact on.
 Sire: Castle Rock Bugatti *B VEE90
 Dam: SG Franke Farm PN Coach 8*M +VEV85
 
-[Link to full pedigree](https://adgagenetics.org/GoatDetail.aspx?RegNumber=D002081537)
+[Link to full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002081537)
 
 ![](/images/2022-06-20220601_183928-1024x862.jpg)
 

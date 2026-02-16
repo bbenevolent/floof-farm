@@ -32,7 +32,7 @@ Dam's Sire: [Wood Bridge Farm Understated](https://www.hiddenhillsnigerians.com/
 
 Dam's Dam: CUtAtLilRedBarn Lucky Patty DR
 
-[Extended Pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002326988)
+[Extended Pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002326988)
 
 **Relatives' Noteworthy Accomplishments: **
 

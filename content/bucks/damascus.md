@@ -17,7 +17,7 @@ Dami has grown into a handsome boy. Very dairy and correct he took Reserve Grand
 Sire: Franke Farm B Dalton Gun Metal
 Dam: R Serenity CF Katana
 
-[Link to full pedigree](https://adgagenetics.org/GoatDetail.aspx?RegNumber=D002081537)
+[Link to full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002081537)
 
 ![](/images/2022-06-IMG_4121-1.jpg)
 

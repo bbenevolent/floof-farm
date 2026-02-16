@@ -13,7 +13,7 @@ Blaze has given us some very nice dairy ladies based on his genetics they should
 Sire: Old Mountain Farm M Bold N +B FS85 (+EV) August 2021 Elite List
 Dam: Camanna RA Uliana *M FS86 (AEEV)
 
-[Link to full pedigree](https://adgagenetics.org/GoatDetail.aspx?RegNumber=D002008580)
+[Link to full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002008580)
 
 ![](/images/2021-07-2021-_07_08-floof-farm-64-of-350.jpg)
 

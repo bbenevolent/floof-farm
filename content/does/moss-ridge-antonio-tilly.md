@@ -18,4 +18,4 @@ Dam's Sire: Royal Cedars Sebastian Caliber
 Dam: Gladdie Acres Cal Jenesis
 Dam's Dam: Gladdie Acres Rhem's Josie
 
-[Full pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=T002383184)
+[Full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=T002383184)

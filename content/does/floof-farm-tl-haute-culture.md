@@ -18,4 +18,4 @@ Dam's Sire: Castle Rock Bugatti
 Dam: Franke Farm B Charlie Caryall
 Dam's Dam: Franke Farm PN Coach
 
-[Full pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002322632)
+[Full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002322632)

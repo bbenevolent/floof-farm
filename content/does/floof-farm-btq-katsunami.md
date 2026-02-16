@@ -18,4 +18,4 @@ Dam's Sire: [Sans Gene BV Time Lord](https://floof.farm/bucks/sans-gene-bv-time-
 Dam: [Floof Farm TL Katsu Koto](https://floof.farm/does/floof-farm-tl-katsu-koto/)
 Dam's Dam: [Floof Farm BS Katsu](https://floof.farm/does/floof-farm-bs-katsu/)
 
-[Full pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002446187)
+[Full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002446187)

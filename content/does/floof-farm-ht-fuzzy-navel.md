@@ -18,4 +18,4 @@ Dam's Sire: Old Mountain Farm Blue Steel
 Dam: [R Serenity Savanna Dry Cider](https://floof.farm/does/r-serenity-savanna-dry-cider/)
 Dam's Dam: R Serenity NHF Sparkling Cider
 
-[Full pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002446178)
+[Full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002446178)

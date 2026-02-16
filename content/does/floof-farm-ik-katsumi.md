@@ -18,4 +18,4 @@ Dam's Sire: Old Mountain Farm Blue Steel
 Dam: [Floof Farm BS Katsu](https://floof.farm/does/floof-farm-bs-katsu/)
 Dam's Dam: [R Serenity CF Katana](https://floof.farm/does/r-serenity-cf-katana/)
 
-[Full pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002395325)
+[Full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002395325)

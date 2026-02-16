@@ -18,4 +18,4 @@ Dam's Sire: R Serenity E Cadbury Freddo
 Dam: [R Serenity CF Katana](https://floof.farm/does/r-serenity-cf-katana/)
 Dam's Dam: [Night Heron Farm JB Katniss](https://floof.farm/does/ch-night-heron-farm-jb-katniss/)
 
-[Full pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002446182)
+[Full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002446182)

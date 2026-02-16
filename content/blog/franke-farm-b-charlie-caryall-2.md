@@ -15,7 +15,7 @@ Charlie is one of those goats we didn't get around to freshening in a timely man
 Sire: Castle Rock Bugatti
 Dam: SG Franke Farm PN Coach
 
-[Link to full pedigree](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D002081536)
+[Link to full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D002081536)
 
 ![](/images/2023-06-charlie.jpg)
 

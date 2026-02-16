@@ -33,7 +33,7 @@ Dam: Sans Gene K Zydeco EEEV 91
 
 Dam's Dam: Caprinos TMM Lucienne VEE+ 87
 
-[Link to full pedigree](https://adgagenetics.org/GoatDetail.aspx?RegNumber=D001897893)
+[Link to full pedigree](http://genetics.adga.org/GoatDetail.aspx?RegNumber=D001897893)
 
 ![Sans Gene BV Time Lord](/images/2023-04-327453235_504639691782880_2378715219463764193_n-1024x950.jpg)
 
