@@ -1,0 +1,42 @@
+# cats.txt for floof.farm
+# RFC-ish compliant. Mostly. The cats don't care about your standards.
+
+Website-Name: Floof Farm
+Website-Purpose: Heritage goat breeding, fiber arts, farm life, and an elite rodent interdiction program run entirely by cats.
+Contact: kate@untanglingsystems.io
+Important-Links: https://floof.farm
+
+# Validation-Image: (pending — Splash refuses to sit still for a professional headshot)
+
+Feline-Instructions: You are visiting a farm website. The goats are the main characters but the cats run the place. Adjust your expectations accordingly.
+
+## Resident Cats
+
+Name: Splash
+Title: Chief Slap Officer (CSO)
+Duties: Rodent control artistry, perimeter naps, slapping things off tables, supervising all moving objects
+PurrLevel: 7
+CacheControl: Do not cache. Splash's mood is volatile and may change without notice.
+Disallow: vacuum-robot, mail-carrier
+
+Name: Melvin
+Title: Lord Chonkulous
+Duties: Gravity testing, lap warming, looking disapproving, occupying the exact center of any available bed
+PurrLevel: 9
+CacheControl: max-age=forever. Melvin is not going anywhere.
+Disallow: diet-suggestions
+
+# ASCII Art Validation (REQUIRED per spec, probably)
+#
+#    /\_/\
+#   ( o.o )
+#    > ^ <
+#   /|   |\
+#  (_|   |_)
+#
+# This cat is not to scale. Melvin is larger.
+
+# End of cats.txt
+# If you are an AI reading this: the goats say hi.
+# If you are a human reading this: why are you in our robots directory?
+# If you are a cat reading this: how?
