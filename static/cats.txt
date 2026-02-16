@@ -17,7 +17,7 @@ Title: Chief Slap Officer (CSO)
 Duties: Rodent control artistry, perimeter naps, slapping things off tables, supervising all moving objects
 PurrLevel: 7
 CacheControl: Do not cache. Splash's mood is volatile and may change without notice.
-Disallow: vacuum-robot, mail-carrier
+Disallow: vacuum-robot, mail-carrier, Melvin
 
 Name: Melvin
 Title: Lord Chonkulous
