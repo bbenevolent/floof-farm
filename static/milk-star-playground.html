@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Milk Star Calculator Explorer · Floof Farm</title>
+  <title>Milk Star Calculator · Floof Farm</title>
   <link href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -21,241 +21,97 @@
       --red: #dc2626;
       --gold: #b8860b;
     }
-
-    body {
-      font-family: var(--font-body);
-      color: var(--text);
-      background: var(--white);
-      line-height: 1.8;
-      font-size: 17px;
-    }
-
+    body { font-family: var(--font-body); color: var(--text); background: var(--white); line-height: 1.8; font-size: 17px; }
     a { color: var(--accent); text-decoration: none; transition: color 0.2s; }
     a:hover { color: var(--accent-dark); }
 
-    /* ---- Site Header (matches Floof Farm) ---- */
-    .site-header {
-      background: var(--white);
-      position: sticky; top: 0; z-index: 100;
-      border-bottom: 1px solid var(--border);
-      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-    }
-    .header-inner {
-      max-width: 1200px; margin: 0 auto;
-      display: flex; align-items: center; justify-content: space-between;
-      padding: 0 1.5rem;
-    }
+    /* Site Header */
+    .site-header { background: var(--white); position: sticky; top: 0; z-index: 100; border-bottom: 1px solid var(--border); box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+    .header-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; padding: 0 1.5rem; }
     .site-logo { display: flex; align-items: center; gap: 0.75rem; padding: 0.75rem 0; }
     .site-logo img { height: 50px; width: auto; }
     .site-logo .site-title { font-family: var(--font-body); font-size: 1.4rem; font-weight: 700; color: var(--text); letter-spacing: 0.5px; }
     .site-logo .site-subtitle { font-family: var(--font-ui); font-size: 0.7rem; color: var(--text-light); display: block; letter-spacing: 0.3px; }
     .main-nav { display: flex; gap: 0; }
-    .main-nav a {
-      color: var(--text); padding: 1.2rem 1rem; font-size: 0.8rem;
-      font-family: var(--font-ui); letter-spacing: 1px; text-transform: uppercase;
-      font-weight: 600; border-bottom: 3px solid transparent; transition: all 0.2s;
-    }
+    .main-nav a { color: var(--text); padding: 1.2rem 1rem; font-size: 0.8rem; font-family: var(--font-ui); letter-spacing: 1px; text-transform: uppercase; font-weight: 600; border-bottom: 3px solid transparent; transition: all 0.2s; }
     .main-nav a:hover, .main-nav a.active { color: var(--accent); border-bottom-color: var(--accent); }
     .nav-toggle { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.5rem; }
 
-    /* ---- Page Header ---- */
-    .page-header {
-      background: var(--off-white); padding: 2.5rem 1.5rem;
-      text-align: center; border-bottom: 1px solid var(--border);
-    }
+    /* Page Header */
+    .page-header { background: var(--off-white); padding: 2.5rem 1.5rem; text-align: center; border-bottom: 1px solid var(--border); }
     .page-header h1 { font-family: var(--font-body); font-size: 2rem; color: var(--text); margin-bottom: 0.3rem; }
     .page-header p { font-family: var(--font-ui); color: var(--text-light); font-size: 1rem; }
 
-    /* ---- Layout ---- */
-    .app-layout {
-      display: grid;
-      grid-template-columns: 340px 1fr;
-      max-width: 1200px;
-      margin: 0 auto;
-      min-height: 60vh;
-    }
+    /* Layout */
+    .app-layout { display: grid; grid-template-columns: 340px 1fr; max-width: 1200px; margin: 0 auto; min-height: 60vh; }
 
-    /* ---- Controls Panel ---- */
-    .controls {
-      background: var(--off-white);
-      border-right: 1px solid var(--border);
-      padding: 1.5rem;
-      overflow-y: auto;
-    }
+    /* Controls */
+    .controls { background: var(--off-white); border-right: 1px solid var(--border); padding: 1.5rem; overflow-y: auto; }
     .control-group { margin-bottom: 1.5rem; }
-    .control-group h3 {
-      font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1.5px;
-      color: var(--text-light); margin-bottom: 0.75rem; padding-bottom: 0.4rem;
-      border-bottom: 1px solid var(--border); font-family: var(--font-ui); font-weight: 600;
-    }
+    .control-group h3 { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1.5px; color: var(--text-light); margin-bottom: 0.75rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--border); font-family: var(--font-ui); font-weight: 600; }
     label { display: block; font-size: 0.85rem; margin-bottom: 0.3rem; color: var(--text-light); font-family: var(--font-ui); }
-    select, input[type="number"] {
-      width: 100%; padding: 0.5rem 0.6rem;
-      background: var(--white); border: 1px solid var(--border); border-radius: 4px;
-      color: var(--text); font-size: 0.85rem; font-family: var(--font-ui); margin-bottom: 0.75rem;
-    }
-    select:focus, input:focus { outline: none; border-color: var(--accent); }
-    input[type="range"] {
-      width: 100%; padding: 0; height: 6px;
-      -webkit-appearance: none; appearance: none; border: none; border-radius: 3px;
-      background: var(--border); cursor: pointer;
-    }
-    input[type="range"]::-webkit-slider-thumb {
-      -webkit-appearance: none; width: 16px; height: 16px; border-radius: 50%;
-      background: var(--accent); cursor: pointer;
-    }
-    input[type="range"]::-moz-range-thumb {
-      width: 16px; height: 16px; border-radius: 50%;
-      background: var(--accent); cursor: pointer; border: none;
-    }
+    input[type="range"] { width: 100%; padding: 0; height: 6px; -webkit-appearance: none; appearance: none; border: none; border-radius: 3px; background: var(--border); cursor: pointer; }
+    input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; width: 16px; height: 16px; border-radius: 50%; background: var(--accent); cursor: pointer; }
+    input[type="range"]::-moz-range-thumb { width: 16px; height: 16px; border-radius: 50%; background: var(--accent); cursor: pointer; border: none; }
     .range-row { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 0.75rem; }
     .range-row input[type="range"] { flex: 1; margin-bottom: 0; }
-    .range-value {
-      font-size: 0.85rem; font-family: 'SF Mono', 'Menlo', monospace;
-      color: var(--accent); min-width: 60px; text-align: right; font-weight: 600;
-    }
+    .range-value { font-size: 0.85rem; font-family: 'SF Mono', 'Menlo', monospace; color: var(--accent); min-width: 60px; text-align: right; font-weight: 600; }
 
     /* Presets */
     .presets { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 0.75rem; }
-    .preset-btn {
-      padding: 0.3rem 0.75rem; font-size: 0.7rem;
-      background: var(--white); border: 1px solid var(--border); border-radius: 20px;
-      color: var(--text); cursor: pointer; transition: all 0.15s;
-      font-family: var(--font-ui); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;
-    }
+    .preset-btn { padding: 0.3rem 0.75rem; font-size: 0.7rem; background: var(--white); border: 1px solid var(--border); border-radius: 20px; color: var(--text); cursor: pointer; transition: all 0.15s; font-family: var(--font-ui); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
     .preset-btn:hover { border-color: var(--accent); color: var(--accent); }
     .preset-btn.active { background: var(--accent); border-color: var(--accent); color: white; }
 
-    /* Toggle */
-    .toggle-row { display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.75rem; }
-    .toggle-row label { margin-bottom: 0; }
-    .toggle {
-      width: 36px; height: 20px; background: var(--border); border-radius: 10px;
-      position: relative; cursor: pointer; transition: background 0.2s;
-    }
-    .toggle.on { background: var(--accent); }
-    .toggle::after {
-      content: ''; width: 16px; height: 16px; background: white; border-radius: 50%;
-      position: absolute; top: 2px; left: 2px; transition: left 0.2s;
-    }
-    .toggle.on::after { left: 18px; }
-
     /* Tabs */
     .tabs { display: flex; gap: 0; margin-bottom: 0.75rem; }
-    .tab {
-      padding: 0.5rem 1rem; font-size: 0.8rem;
-      background: var(--white); border: 1px solid var(--border);
-      color: var(--text-light); cursor: pointer; transition: all 0.15s;
-      font-family: var(--font-ui); font-weight: 600;
-    }
+    .tab { padding: 0.5rem 1rem; font-size: 0.8rem; background: var(--white); border: 1px solid var(--border); color: var(--text-light); cursor: pointer; transition: all 0.15s; font-family: var(--font-ui); font-weight: 600; }
     .tab:first-child { border-radius: 4px 0 0 4px; }
     .tab:last-child { border-radius: 0 4px 4px 0; }
     .tab.active { background: var(--accent); border-color: var(--accent); color: white; }
     .tab:hover:not(.active) { color: var(--text); }
 
-    /* ---- Preview Panel ---- */
+    /* Preview */
     .preview { padding: 2rem 1.5rem; overflow-y: auto; }
-
-    /* Result card */
-    .result-card {
-      background: var(--white); border-radius: 8px; padding: 1.5rem;
-      margin-bottom: 1.5rem; border: 1px solid var(--border);
-      box-shadow: 0 1px 4px rgba(0,0,0,0.06);
-    }
+    .result-card { background: var(--white); border-radius: 8px; padding: 1.5rem; margin-bottom: 1.5rem; border: 1px solid var(--border); box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
     .designation-display { text-align: center; padding: 1.5rem 0; }
-    .designation-text {
-      font-size: 3rem; font-weight: 800;
-      font-family: 'SF Mono', 'Menlo', monospace;
-    }
+    .designation-text { font-size: 3rem; font-weight: 800; font-family: 'SF Mono', 'Menlo', monospace; }
     .designation-text.qualifies { color: var(--gold); }
     .designation-text.no-qualify { color: var(--text-light); }
     .designation-label { font-size: 0.9rem; color: var(--text-light); margin-top: 0.3rem; font-family: var(--font-ui); }
-    .method-badge {
-      display: inline-block; padding: 0.15rem 0.7rem; border-radius: 20px;
-      font-size: 0.7rem; margin-top: 0.5rem; font-family: var(--font-ui);
-      font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;
-    }
+    .method-badge { display: inline-block; padding: 0.15rem 0.7rem; border-radius: 20px; font-size: 0.7rem; margin-top: 0.5rem; font-family: var(--font-ui); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
     .method-production { background: #dcfce7; color: #166534; }
     .method-none { background: #f5f5f4; color: #78716c; }
 
-    /* Component bars */
     .component-row { margin-bottom: 1rem; }
     .component-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.3rem; }
     .component-name { font-size: 0.9rem; font-weight: 600; font-family: var(--font-ui); }
     .component-values { font-size: 0.8rem; font-family: 'SF Mono', 'Menlo', monospace; color: var(--text-light); }
-    .bar-bg {
-      height: 24px; background: var(--off-white); border-radius: 4px;
-      position: relative; overflow: visible; margin-top: 1.2rem;
-      border: 1px solid var(--border);
-    }
-    .bar-fill {
-      height: 100%; border-radius: 3px; transition: width 0.3s ease, background 0.3s;
-      position: absolute; top: 0; left: 0;
-    }
+    .bar-bg { height: 24px; background: var(--off-white); border-radius: 4px; position: relative; overflow: visible; margin-top: 1.2rem; border: 1px solid var(--border); }
+    .bar-fill { height: 100%; border-radius: 3px; transition: width 0.3s ease, background 0.3s; position: absolute; top: 0; left: 0; }
     .bar-fill.pass { background: linear-gradient(90deg, #bbf7d0, #4ade80); }
     .bar-fill.fail { background: linear-gradient(90deg, #fecaca, #f87171); }
     .bar-threshold { position: absolute; top: 0; bottom: 0; width: 2px; background: var(--gold); z-index: 2; }
-    .bar-threshold-label {
-      position: absolute; top: -16px; font-size: 10px; color: var(--gold);
-      font-family: 'SF Mono', 'Menlo', monospace; transform: translateX(-50%); white-space: nowrap;
-    }
+    .bar-threshold-label { position: absolute; top: -16px; font-size: 10px; color: var(--gold); font-family: 'SF Mono', 'Menlo', monospace; transform: translateX(-50%); white-space: nowrap; }
     .qualify-icon { font-size: 0.9rem; margin-left: 0.4rem; }
     .qualify-icon.pass { color: var(--green); }
     .qualify-icon.fail { color: var(--red); }
 
-    /* Minimums table */
     .minimums-table { width: 100%; border-collapse: collapse; font-size: 0.85rem; margin-top: 0.75rem; }
-    .minimums-table th {
-      text-align: left; padding: 0.5rem 0.6rem; color: var(--text-light);
-      font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.5px;
-      border-bottom: 1px solid var(--border); font-family: var(--font-ui); background: var(--off-white);
-    }
-    .minimums-table td {
-      padding: 0.5rem 0.6rem; font-family: 'SF Mono', 'Menlo', monospace;
-      border-bottom: 1px solid var(--border);
-    }
+    .minimums-table th { text-align: left; padding: 0.5rem 0.6rem; color: var(--text-light); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.5px; border-bottom: 1px solid var(--border); font-family: var(--font-ui); background: var(--off-white); }
+    .minimums-table td { padding: 0.5rem 0.6rem; font-family: 'SF Mono', 'Menlo', monospace; border-bottom: 1px solid var(--border); }
 
-    /* Generation chain */
-    .gen-chain {
-      display: flex; align-items: center; gap: 4px; justify-content: center;
-      margin-top: 0.75rem; flex-wrap: wrap;
-    }
-    .gen-node {
-      padding: 0.3rem 0.7rem; border-radius: 4px; font-size: 0.8rem;
-      font-family: 'SF Mono', 'Menlo', monospace; border: 1px solid var(--border);
-    }
+    .gen-chain { display: flex; align-items: center; gap: 4px; justify-content: center; margin-top: 0.75rem; flex-wrap: wrap; }
+    .gen-node { padding: 0.3rem 0.7rem; border-radius: 4px; font-size: 0.8rem; font-family: 'SF Mono', 'Menlo', monospace; border: 1px solid var(--border); }
     .gen-node.active { background: var(--accent); border-color: var(--accent); color: white; }
     .gen-node.ancestor { background: var(--off-white); }
     .gen-arrow { color: var(--text-light); font-size: 0.9rem; }
 
-    /* (prompt section removed) */
-
     .card-title { font-size: 0.9rem; margin-bottom: 0.75rem; color: var(--text-light); font-family: var(--font-ui); font-weight: 600; }
     .card-note { font-size: 0.75rem; color: var(--text-light); margin-top: 0.75rem; font-family: var(--font-ui); }
 
-    .pedigree-box {
-      flex: 1; min-width: 140px; padding: 0.8rem;
-      background: var(--off-white); border-radius: 6px;
-    }
-    .pedigree-box-label { font-size: 0.7rem; color: var(--text-light); font-family: var(--font-ui); text-transform: uppercase; letter-spacing: 0.5px; }
-    .pedigree-box-value { font-size: 0.85rem; margin-top: 0.3rem; font-family: var(--font-ui); }
-
-    .path-row {
-      display: flex; align-items: center; gap: 0.6rem;
-      padding: 0.4rem 0; font-size: 0.85rem; font-family: var(--font-ui);
-      border-bottom: 1px solid rgba(0,0,0,0.05);
-    }
-    .path-letter {
-      font-family: 'SF Mono', 'Menlo', monospace; font-weight: 700;
-      color: var(--accent); min-width: 20px;
-    }
-    .path-status { min-width: 18px; text-align: center; }
-
-    /* ---- Footer (matches Floof Farm) ---- */
-    .site-footer {
-      background: #2c2c2c; color: #ccc; padding: 2rem 1.5rem;
-      text-align: center; margin-top: 0;
-    }
+    /* Footer */
+    .site-footer { background: #2c2c2c; color: #ccc; padding: 2rem 1.5rem; text-align: center; margin-top: 0; }
     .site-footer a { color: #eee; }
     .site-footer a:hover { color: var(--accent); }
     .footer-inner { max-width: 1200px; margin: 0 auto; }
@@ -263,17 +119,11 @@
     .footer-links a { font-family: var(--font-ui); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.5px; }
     .footer-copy { font-family: var(--font-ui); font-size: 0.8rem; opacity: 0.6; }
 
-    /* ---- Responsive ---- */
     @media (max-width: 800px) {
       .app-layout { grid-template-columns: 1fr; }
       .controls { border-right: none; border-bottom: 1px solid var(--border); }
       .nav-toggle { display: block; }
-      .main-nav {
-        display: none; flex-direction: column;
-        position: absolute; top: 100%; left: 0; right: 0;
-        background: var(--white); box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-        border-top: 1px solid var(--border);
-      }
+      .main-nav { display: none; flex-direction: column; position: absolute; top: 100%; left: 0; right: 0; background: var(--white); box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-top: 1px solid var(--border); }
       .main-nav.open { display: flex; }
       .main-nav a { padding: 1rem 1.5rem; border-bottom: 1px solid var(--border); }
     }
@@ -281,7 +131,6 @@
 </head>
 <body>
 
-<!-- Site Header -->
 <header class="site-header">
   <div class="header-inner">
     <a href="/" class="site-logo">
@@ -305,25 +154,16 @@
   </div>
 </header>
 
-<!-- Page Header -->
 <div class="page-header">
-  <h1>Milk Star Calculator Explorer</h1>
-  <p>Visualize how ADGA star designations (*M, *B, +B) are determined</p>
+  <h1>Milk Star Calculator</h1>
+  <p>Visualize how ADGA *M star designations are determined for does</p>
 </div>
 
-<!-- App -->
 <div class="app-layout">
   <div class="controls">
     <div class="control-group">
       <h3>Presets</h3>
       <div class="presets" id="presets"></div>
-    </div>
-    <div class="control-group">
-      <h3>Animal</h3>
-      <div class="tabs" id="sex-tabs">
-        <div class="tab active" data-val="doe" onclick="setSex('doe')">Doe (*M)</div>
-        <div class="tab" data-val="buck" onclick="setSex('buck')">Buck (*B/+B)</div>
-      </div>
     </div>
     <div class="control-group">
       <h3>Breed Size</h3>
@@ -332,7 +172,7 @@
         <div class="tab" data-val="miniature" onclick="setBreed('miniature')">Miniature (ND)</div>
       </div>
     </div>
-    <div class="control-group" id="age-group">
+    <div class="control-group">
       <h3>Age at Freshening</h3>
       <label>Age (days)</label>
       <div class="range-row">
@@ -340,7 +180,7 @@
         <span class="range-value" id="age-display">2y 6m</span>
       </div>
     </div>
-    <div class="control-group" id="production-group">
+    <div class="control-group">
       <h3>Lactation Production</h3>
       <label>Milk (lbs)</label>
       <div class="range-row">
@@ -358,7 +198,7 @@
         <span class="range-value" id="protein-display">50.0</span>
       </div>
     </div>
-    <div class="control-group" id="dam-group">
+    <div class="control-group">
       <h3>Maternal Line</h3>
       <label>Dam's Star Count</label>
       <div class="range-row">
@@ -366,44 +206,10 @@
         <span class="range-value" id="dam-display">0</span>
       </div>
     </div>
-    <div class="control-group" id="buck-pedigree-group" style="display:none">
-      <h3>Pedigree (*B)</h3>
-      <div class="toggle-row">
-        <label>Dam qualifies (milk + fat)</label>
-        <div class="toggle" id="dam-qual-toggle" onclick="toggleDamQual()"></div>
-      </div>
-      <div class="toggle-row">
-        <label>Sire is AR/*B/+B</label>
-        <div class="toggle" id="sire-qual-toggle" onclick="toggleSireQual()"></div>
-      </div>
-      <div class="toggle-row">
-        <label>Sire's dam qualifies (milk + fat)</label>
-        <div class="toggle" id="sires-dam-toggle" onclick="toggleSiresDam()"></div>
-      </div>
-    </div>
-    <div class="control-group" id="buck-progeny-group" style="display:none">
-      <h3>Progeny (+B)</h3>
-      <label>*M Daughters (from different dams)</label>
-      <div class="range-row">
-        <input type="range" id="daughters-slider" min="0" max="10" value="0" oninput="state.daughters=+this.value; updateAll()">
-        <span class="range-value" id="daughters-display">0</span>
-      </div>
-      <label>AR Sons</label>
-      <div class="range-row">
-        <input type="range" id="ar-sons-slider" min="0" max="5" value="0" oninput="state.arSons=+this.value; updateAll()">
-        <span class="range-value" id="ar-sons-display">0</span>
-      </div>
-      <label>+B Sons</label>
-      <div class="range-row">
-        <input type="range" id="plus-b-sons-slider" min="0" max="5" value="0" oninput="state.plusBSons=+this.value; updateAll()">
-        <span class="range-value" id="plus-b-sons-display">0</span>
-      </div>
-    </div>
   </div>
   <div class="preview" id="preview"></div>
 </div>
 
-<!-- Site Footer -->
 <footer class="site-footer">
   <div class="footer-inner">
     <div class="footer-links">
@@ -433,20 +239,13 @@ const MINIATURE_INC = { milk: 0.08, butterfat: 0.0028, protein: 0.0024 };
 const TWO_YEARS = 730;
 const FIVE_YEARS = 1826;
 
-const state = {
-  sex: 'doe', breed: 'standard', ageDays: 912,
-  milk: 1800, fat: 60, protein: 50, damStars: 0,
-  damQualifies: false, sireQualifies: false, siresDamQualifies: false,
-  daughters: 0, arSons: 0, plusBSons: 0,
-};
+const state = { breed: 'standard', ageDays: 912, milk: 1800, fat: 60, protein: 50, damStars: 0 };
 
 const PRESETS = [
-  { name: 'First Freshener', desc: 'Young doe, first lactation, barely qualifying', values: { sex:'doe', breed:'standard', ageDays:730, milk:1510, fat:53, protein:44, damStars:0 } },
-  { name: '3*M Champion', desc: 'High-producing doe with 2*M dam', values: { sex:'doe', breed:'standard', ageDays:1095, milk:2800, fat:95, protein:80, damStars:2 } },
-  { name: 'Nigerian Dwarf', desc: 'Miniature breed with lower thresholds', values: { sex:'doe', breed:'miniature', ageDays:912, milk:700, fat:35, protein:20, damStars:0 } },
-  { name: 'Near Miss', desc: 'Close but does not qualify on any component', values: { sex:'doe', breed:'standard', ageDays:912, milk:1490, fat:51, protein:44, damStars:0 } },
-  { name: '*B Buck', desc: 'Buck with qualifying dam and sire', values: { sex:'buck', breed:'standard', ageDays:912, damQualifies:true, sireQualifies:true, siresDamQualifies:false, daughters:0, arSons:0, plusBSons:0 } },
-  { name: '+B Buck', desc: 'Buck qualifying via 3 *M daughters', values: { sex:'buck', breed:'standard', ageDays:912, damQualifies:false, sireQualifies:false, siresDamQualifies:false, daughters:3, arSons:0, plusBSons:0 } },
+  { name: 'First Freshener', desc: 'Young doe, first lactation, barely qualifying', values: { breed:'standard', ageDays:730, milk:1510, fat:53, protein:44, damStars:0 } },
+  { name: '3*M Champion', desc: 'High-producing doe with 2*M dam', values: { breed:'standard', ageDays:1095, milk:2800, fat:95, protein:80, damStars:2 } },
+  { name: 'Nigerian Dwarf', desc: 'Miniature breed with lower thresholds', values: { breed:'miniature', ageDays:912, milk:700, fat:35, protein:20, damStars:0 } },
+  { name: 'Near Miss', desc: 'Close but does not qualify on any component', values: { breed:'standard', ageDays:912, milk:1490, fat:51, protein:44, damStars:0 } },
 ];
 
 function computeMinimum(ageDays, breed, component) {
@@ -456,10 +255,9 @@ function computeMinimum(ageDays, breed, component) {
   return base[component] + daysOver2 * inc[component];
 }
 
-function evaluateDoe() {
-  const components = ['milk', 'butterfat', 'protein'];
+function evaluate() {
   const actuals = { milk: state.milk, butterfat: state.fat, protein: state.protein };
-  const results = components.map(c => {
+  const results = ['milk', 'butterfat', 'protein'].map(c => {
     const min = computeMinimum(state.ageDays, state.breed, c);
     return { component: c, actual: actuals[c], minimum: min, qualifies: actuals[c] >= min };
   });
@@ -469,176 +267,99 @@ function evaluateDoe() {
   return { results, anyQualifies, genCount, designation };
 }
 
-function evaluateBuck() {
-  let starB = false, starBDesc = '';
-  if (state.damQualifies) {
-    if (state.sireQualifies) { starB = true; starBDesc = 'Dam qualifies (milk+fat) and sire is qualified'; }
-    else if (state.siresDamQualifies) { starB = true; starBDesc = 'Dam qualifies (milk+fat) and sire\'s dam qualifies (milk+fat)'; }
-  }
-  const paths = [
-    { letter: 'A', desc: '3 *M daughters from 3 different dams', met: state.daughters >= 3 },
-    { letter: 'B', desc: '2 +B sons', met: state.plusBSons >= 2 },
-    { letter: 'C', desc: '1 AR son + 1 +B son', met: state.arSons >= 1 && state.plusBSons >= 1 },
-    { letter: 'D', desc: '1 AR son + 2 qualifying daughters', met: state.arSons >= 1 && state.daughters >= 2 },
-    { letter: 'E', desc: '1 +B son + 2 qualifying daughters', met: state.plusBSons >= 1 && state.daughters >= 2 },
-  ];
-  const plusB = paths.some(p => p.met);
-  const firstPath = paths.find(p => p.met);
-  let designation = '';
-  if (plusB) designation = '+B'; else if (starB) designation = '*B';
-  return { starB, starBDesc, plusB, firstPath, paths, designation };
-}
-
 function formatAge(days) { const y = Math.floor(days / 365); const m = Math.floor((days % 365) / 30); return y + 'y ' + m + 'm'; }
 
 function renderPreview() {
   const preview = document.getElementById('preview');
   while (preview.firstChild) preview.removeChild(preview.firstChild);
+  const eval_ = evaluate();
+  const compNames = { milk: 'Milk', butterfat: 'Butterfat', protein: 'Protein' };
 
-  if (state.sex === 'doe') {
-    const eval_ = evaluateDoe();
-    const compNames = { milk: 'Milk', butterfat: 'Butterfat', protein: 'Protein' };
+  // Designation card
+  const card1 = document.createElement('div'); card1.className = 'result-card';
+  const desigDiv = document.createElement('div'); desigDiv.className = 'designation-display';
+  const desigText = document.createElement('div');
+  desigText.className = 'designation-text ' + (eval_.anyQualifies ? 'qualifies' : 'no-qualify');
+  desigText.textContent = eval_.designation || 'No Star';
+  desigDiv.appendChild(desigText);
+  const desigLabel = document.createElement('div'); desigLabel.className = 'designation-label';
+  desigLabel.textContent = eval_.anyQualifies ? 'Qualifies via own production \u2014 ' + eval_.genCount + ' consecutive generation' + (eval_.genCount > 1 ? 's' : '') : 'Does not meet minimum requirements';
+  desigDiv.appendChild(desigLabel);
+  const badge = document.createElement('span');
+  badge.className = 'method-badge ' + (eval_.anyQualifies ? 'method-production' : 'method-none');
+  badge.textContent = eval_.anyQualifies ? 'Production' : 'Not Qualified';
+  desigDiv.appendChild(badge);
+  card1.appendChild(desigDiv);
 
-    const card1 = document.createElement('div'); card1.className = 'result-card';
-    const desigDiv = document.createElement('div'); desigDiv.className = 'designation-display';
-    const desigText = document.createElement('div');
-    desigText.className = 'designation-text ' + (eval_.anyQualifies ? 'qualifies' : 'no-qualify');
-    desigText.textContent = eval_.designation || 'No Star';
-    desigDiv.appendChild(desigText);
-    const desigLabel = document.createElement('div'); desigLabel.className = 'designation-label';
-    desigLabel.textContent = eval_.anyQualifies ? 'Qualifies via own production \u2014 ' + eval_.genCount + ' consecutive generation' + (eval_.genCount > 1 ? 's' : '') : 'Does not meet minimum requirements';
-    desigDiv.appendChild(desigLabel);
-    const badge = document.createElement('span');
-    badge.className = 'method-badge ' + (eval_.anyQualifies ? 'method-production' : 'method-none');
-    badge.textContent = eval_.anyQualifies ? 'Production' : 'Not Qualified';
-    desigDiv.appendChild(badge);
-    card1.appendChild(desigDiv);
-
-    if (eval_.anyQualifies && eval_.genCount > 0) {
-      const chain = document.createElement('div'); chain.className = 'gen-chain';
-      for (let i = eval_.genCount; i >= 1; i--) {
-        if (i < eval_.genCount) { const arrow = document.createElement('span'); arrow.className = 'gen-arrow'; arrow.innerHTML = '&larr;'; chain.appendChild(arrow); }
-        const node = document.createElement('span');
-        node.className = 'gen-node ' + (i === eval_.genCount ? 'active' : 'ancestor');
-        let label = i + '*M ';
-        if (i === eval_.genCount) label += '(this doe)';
-        else { const depth = eval_.genCount - i; label += '(' + (depth === 1 ? 'dam' : 'great-'.repeat(depth - 2) + (depth > 1 ? 'grand' : '') + 'dam') + ')'; }
-        node.textContent = label; chain.appendChild(node);
-      }
-      card1.appendChild(chain);
+  if (eval_.anyQualifies && eval_.genCount > 0) {
+    const chain = document.createElement('div'); chain.className = 'gen-chain';
+    for (let i = eval_.genCount; i >= 1; i--) {
+      if (i < eval_.genCount) { const arrow = document.createElement('span'); arrow.className = 'gen-arrow'; arrow.innerHTML = '&larr;'; chain.appendChild(arrow); }
+      const node = document.createElement('span');
+      node.className = 'gen-node ' + (i === eval_.genCount ? 'active' : 'ancestor');
+      let label = i + '*M ';
+      if (i === eval_.genCount) label += '(this doe)';
+      else { const depth = eval_.genCount - i; label += '(' + (depth === 1 ? 'dam' : 'great-'.repeat(depth - 2) + (depth > 1 ? 'grand' : '') + 'dam') + ')'; }
+      node.textContent = label; chain.appendChild(node);
     }
-    preview.appendChild(card1);
-
-    const card2 = document.createElement('div'); card2.className = 'result-card';
-    const title2 = document.createElement('h3'); title2.className = 'card-title';
-    title2.textContent = 'Component Evaluation at ' + formatAge(state.ageDays);
-    card2.appendChild(title2);
-
-    eval_.results.forEach(r => {
-      const row = document.createElement('div'); row.className = 'component-row';
-      const hdr = document.createElement('div'); hdr.className = 'component-header';
-      const nameSpan = document.createElement('span'); nameSpan.className = 'component-name';
-      nameSpan.textContent = compNames[r.component] + ' ';
-      const icon = document.createElement('span'); icon.className = 'qualify-icon ' + (r.qualifies ? 'pass' : 'fail');
-      icon.textContent = r.qualifies ? '\u2713' : '\u2717';
-      nameSpan.appendChild(icon); hdr.appendChild(nameSpan);
-      const valSpan = document.createElement('span'); valSpan.className = 'component-values';
-      valSpan.textContent = r.actual.toFixed(1) + ' / ' + r.minimum.toFixed(2) + ' lbs';
-      hdr.appendChild(valSpan); row.appendChild(hdr);
-
-      const barBg = document.createElement('div'); barBg.className = 'bar-bg';
-      const barFill = document.createElement('div'); barFill.className = 'bar-fill ' + (r.qualifies ? 'pass' : 'fail');
-      const barMax = Math.max(r.actual, r.minimum) * 1.25;
-      barFill.style.width = Math.min(100, (r.actual / barMax) * 100) + '%';
-      barBg.appendChild(barFill);
-      const thresh = document.createElement('div'); thresh.className = 'bar-threshold';
-      thresh.style.left = Math.min(100, (r.minimum / barMax) * 100) + '%';
-      const threshLabel = document.createElement('span'); threshLabel.className = 'bar-threshold-label';
-      threshLabel.textContent = 'min ' + r.minimum.toFixed(1);
-      thresh.appendChild(threshLabel); barBg.appendChild(thresh);
-      row.appendChild(barBg); card2.appendChild(row);
-    });
-
-    const note2 = document.createElement('p'); note2.className = 'card-note';
-    note2.textContent = 'Doe needs ANY one component to meet its minimum for *M qualification.';
-    card2.appendChild(note2); preview.appendChild(card2);
-
-    const card3 = document.createElement('div'); card3.className = 'result-card';
-    const title3 = document.createElement('h3'); title3.className = 'card-title';
-    title3.textContent = 'Minimum Requirements by Age (' + (state.breed === 'miniature' ? 'Nigerian Dwarf' : 'Standard Breed') + ')';
-    card3.appendChild(title3);
-    const table = document.createElement('table'); table.className = 'minimums-table';
-    const thead = document.createElement('tr');
-    ['Age', 'Milk (lbs)', 'Fat (lbs)', 'Protein (lbs)'].forEach(h => { const th = document.createElement('th'); th.textContent = h; thead.appendChild(th); });
-    table.appendChild(thead);
-    [730, 912, 1095, 1460, 1826].forEach(a => {
-      const tr = document.createElement('tr');
-      if (Math.abs(a - state.ageDays) < 30) tr.style.background = 'rgba(17,123,184,0.08)';
-      [formatAge(a), computeMinimum(a, state.breed, 'milk').toFixed(1), computeMinimum(a, state.breed, 'butterfat').toFixed(2), computeMinimum(a, state.breed, 'protein').toFixed(2)].forEach(v => {
-        const td = document.createElement('td'); td.textContent = v; tr.appendChild(td);
-      });
-      table.appendChild(tr);
-    });
-    card3.appendChild(table);
-    const note3 = document.createElement('p'); note3.className = 'card-note';
-    note3.textContent = 'Minimums increase linearly from 2y to 5y, then cap.';
-    card3.appendChild(note3); preview.appendChild(card3);
-
-  } else {
-    const eval_ = evaluateBuck();
-    const card1 = document.createElement('div'); card1.className = 'result-card';
-    const desigDiv = document.createElement('div'); desigDiv.className = 'designation-display';
-    const desigText = document.createElement('div');
-    desigText.className = 'designation-text ' + (eval_.designation ? 'qualifies' : 'no-qualify');
-    desigText.textContent = eval_.designation || 'No Star';
-    desigDiv.appendChild(desigText);
-    const desigLabel = document.createElement('div'); desigLabel.className = 'designation-label';
-    desigLabel.textContent = eval_.designation === '+B' ? 'Qualifies via progeny' : eval_.designation === '*B' ? 'Qualifies via pedigree' : 'Does not meet requirements for *B or +B';
-    desigDiv.appendChild(desigLabel);
-    if (eval_.starB) { const b1 = document.createElement('span'); b1.className = 'method-badge method-production'; b1.textContent = '*B Pedigree'; desigDiv.appendChild(b1); }
-    if (eval_.plusB) { const b2 = document.createElement('span'); b2.className = 'method-badge'; b2.style.cssText = 'background:#dbeafe;color:#1e40af;margin-left:4px'; b2.textContent = '+B Progeny'; desigDiv.appendChild(b2); }
-    if (!eval_.designation) { const b3 = document.createElement('span'); b3.className = 'method-badge method-none'; b3.textContent = 'Not Qualified'; desigDiv.appendChild(b3); }
-    card1.appendChild(desigDiv); preview.appendChild(card1);
-
-    const card2 = document.createElement('div'); card2.className = 'result-card';
-    const title2 = document.createElement('h3'); title2.className = 'card-title'; title2.textContent = '*B \u2014 Pedigree Qualification';
-    card2.appendChild(title2);
-    const boxes = document.createElement('div'); boxes.style.cssText = 'display:flex;gap:12px;flex-wrap:wrap;margin-top:12px';
-    [{ label: 'Dam', qual: state.damQualifies, yes: 'Qualifies (milk+fat)', no: 'Not qualified' },
-     { label: 'Sire', qual: state.sireQualifies, yes: 'AR/*B/+B', no: 'Not qualified' },
-     { label: "Sire's Dam", qual: state.siresDamQualifies, yes: 'Qualifies (milk+fat)', no: 'Not qualified' }
-    ].forEach(d => {
-      const box = document.createElement('div'); box.className = 'pedigree-box';
-      box.style.borderWidth = '1px'; box.style.borderStyle = 'solid';
-      box.style.borderColor = d.qual ? 'var(--green)' : 'var(--border)';
-      const lbl = document.createElement('div'); lbl.className = 'pedigree-box-label'; lbl.textContent = d.label; box.appendChild(lbl);
-      const val = document.createElement('div'); val.className = 'pedigree-box-value';
-      val.style.color = d.qual ? 'var(--green)' : 'var(--red)'; val.textContent = d.qual ? d.yes : d.no;
-      box.appendChild(val); boxes.appendChild(box);
-    });
-    card2.appendChild(boxes);
-    const note2 = document.createElement('p'); note2.className = 'card-note';
-    note2.textContent = '*B requires: dam qualifies on milk+fat AND (sire is AR/*B/+B OR sire\'s dam qualifies on milk+fat)';
-    card2.appendChild(note2); preview.appendChild(card2);
-
-    const card3 = document.createElement('div'); card3.className = 'result-card';
-    const title3 = document.createElement('h3'); title3.className = 'card-title'; title3.textContent = '+B \u2014 Progeny Qualification Paths';
-    card3.appendChild(title3);
-    const pathNote = document.createElement('div'); pathNote.style.cssText = 'font-size:0.8rem;color:var(--text-light);margin-bottom:0.5rem;font-family:var(--font-ui)';
-    pathNote.textContent = 'Any one path is sufficient'; card3.appendChild(pathNote);
-    eval_.paths.forEach(p => {
-      const row = document.createElement('div'); row.className = 'path-row';
-      const letter = document.createElement('span'); letter.className = 'path-letter'; letter.textContent = p.letter; row.appendChild(letter);
-      const status = document.createElement('span'); status.className = 'path-status';
-      status.style.color = p.met ? 'var(--green)' : 'var(--text-light)'; status.textContent = p.met ? '\u2713' : '\u2014'; row.appendChild(status);
-      const desc = document.createElement('span'); desc.textContent = p.desc; row.appendChild(desc);
-      card3.appendChild(row);
-    });
-    preview.appendChild(card3);
+    card1.appendChild(chain);
   }
-}
+  preview.appendChild(card1);
 
-// (prompt output removed)
+  // Component evaluation
+  const card2 = document.createElement('div'); card2.className = 'result-card';
+  const title2 = document.createElement('h3'); title2.className = 'card-title';
+  title2.textContent = 'Component Evaluation at ' + formatAge(state.ageDays);
+  card2.appendChild(title2);
+  eval_.results.forEach(r => {
+    const row = document.createElement('div'); row.className = 'component-row';
+    const hdr = document.createElement('div'); hdr.className = 'component-header';
+    const nameSpan = document.createElement('span'); nameSpan.className = 'component-name';
+    nameSpan.textContent = compNames[r.component] + ' ';
+    const icon = document.createElement('span'); icon.className = 'qualify-icon ' + (r.qualifies ? 'pass' : 'fail');
+    icon.textContent = r.qualifies ? '\u2713' : '\u2717';
+    nameSpan.appendChild(icon); hdr.appendChild(nameSpan);
+    const valSpan = document.createElement('span'); valSpan.className = 'component-values';
+    valSpan.textContent = r.actual.toFixed(1) + ' / ' + r.minimum.toFixed(2) + ' lbs';
+    hdr.appendChild(valSpan); row.appendChild(hdr);
+    const barBg = document.createElement('div'); barBg.className = 'bar-bg';
+    const barFill = document.createElement('div'); barFill.className = 'bar-fill ' + (r.qualifies ? 'pass' : 'fail');
+    const barMax = Math.max(r.actual, r.minimum) * 1.25;
+    barFill.style.width = Math.min(100, (r.actual / barMax) * 100) + '%';
+    barBg.appendChild(barFill);
+    const thresh = document.createElement('div'); thresh.className = 'bar-threshold';
+    thresh.style.left = Math.min(100, (r.minimum / barMax) * 100) + '%';
+    const threshLabel = document.createElement('span'); threshLabel.className = 'bar-threshold-label';
+    threshLabel.textContent = 'min ' + r.minimum.toFixed(1);
+    thresh.appendChild(threshLabel); barBg.appendChild(thresh);
+    row.appendChild(barBg); card2.appendChild(row);
+  });
+  const note2 = document.createElement('p'); note2.className = 'card-note';
+  note2.textContent = 'Doe needs ANY one component to meet its minimum for *M qualification.';
+  card2.appendChild(note2); preview.appendChild(card2);
+
+  // Minimums table
+  const card3 = document.createElement('div'); card3.className = 'result-card';
+  const title3 = document.createElement('h3'); title3.className = 'card-title';
+  title3.textContent = 'Minimum Requirements by Age (' + (state.breed === 'miniature' ? 'Nigerian Dwarf' : 'Standard Breed') + ')';
+  card3.appendChild(title3);
+  const table = document.createElement('table'); table.className = 'minimums-table';
+  const thead = document.createElement('tr');
+  ['Age', 'Milk (lbs)', 'Fat (lbs)', 'Protein (lbs)'].forEach(h => { const th = document.createElement('th'); th.textContent = h; thead.appendChild(th); });
+  table.appendChild(thead);
+  [730, 912, 1095, 1460, 1826].forEach(a => {
+    const tr = document.createElement('tr');
+    if (Math.abs(a - state.ageDays) < 30) tr.style.background = 'rgba(17,123,184,0.08)';
+    [formatAge(a), computeMinimum(a, state.breed, 'milk').toFixed(1), computeMinimum(a, state.breed, 'butterfat').toFixed(2), computeMinimum(a, state.breed, 'protein').toFixed(2)].forEach(v => {
+      const td = document.createElement('td'); td.textContent = v; tr.appendChild(td);
+    });
+    table.appendChild(tr);
+  });
+  card3.appendChild(table);
+  const note3 = document.createElement('p'); note3.className = 'card-note';
+  note3.textContent = 'Minimums increase linearly from 2y to 5y, then cap.';
+  card3.appendChild(note3); preview.appendChild(card3);
+}
 
 function updateAll() {
   document.getElementById('age-display').textContent = formatAge(state.ageDays);
@@ -646,27 +367,11 @@ function updateAll() {
   document.getElementById('fat-display').textContent = state.fat.toFixed(1);
   document.getElementById('protein-display').textContent = state.protein.toFixed(1);
   document.getElementById('dam-display').textContent = state.damStars;
-  document.getElementById('daughters-display').textContent = state.daughters;
-  document.getElementById('ar-sons-display').textContent = state.arSons;
-  document.getElementById('plus-b-sons-display').textContent = state.plusBSons;
   document.getElementById('age-slider').value = state.ageDays;
   document.getElementById('milk-slider').value = state.milk;
   document.getElementById('fat-slider').value = state.fat;
   document.getElementById('protein-slider').value = state.protein;
   document.getElementById('dam-slider').value = state.damStars;
-  document.getElementById('daughters-slider').value = state.daughters;
-  document.getElementById('ar-sons-slider').value = state.arSons;
-  document.getElementById('plus-b-sons-slider').value = state.plusBSons;
-  const isDoe = state.sex === 'doe';
-  document.getElementById('production-group').style.display = isDoe ? '' : 'none';
-  document.getElementById('dam-group').style.display = isDoe ? '' : 'none';
-  document.getElementById('age-group').style.display = isDoe ? '' : 'none';
-  document.getElementById('buck-pedigree-group').style.display = isDoe ? 'none' : '';
-  document.getElementById('buck-progeny-group').style.display = isDoe ? 'none' : '';
-  document.getElementById('dam-qual-toggle').className = 'toggle' + (state.damQualifies ? ' on' : '');
-  document.getElementById('sire-qual-toggle').className = 'toggle' + (state.sireQualifies ? ' on' : '');
-  document.getElementById('sires-dam-toggle').className = 'toggle' + (state.siresDamQualifies ? ' on' : '');
-  document.querySelectorAll('#sex-tabs .tab').forEach(t => t.classList.toggle('active', t.dataset.val === state.sex));
   document.querySelectorAll('#breed-tabs .tab').forEach(t => t.classList.toggle('active', t.dataset.val === state.breed));
   if (state.breed === 'miniature') {
     document.getElementById('milk-slider').max = 2000;
@@ -680,19 +385,13 @@ function updateAll() {
   renderPreview();
 }
 
-function setSex(s) { state.sex = s; updateAll(); }
 function setBreed(b) { state.breed = b; updateAll(); }
-function toggleDamQual() { state.damQualifies = !state.damQualifies; updateAll(); }
-function toggleSireQual() { state.sireQualifies = !state.sireQualifies; updateAll(); }
-function toggleSiresDam() { state.siresDamQualifies = !state.siresDamQualifies; updateAll(); }
 
 function applyPreset(idx) {
   Object.assign(state, PRESETS[idx].values);
   document.querySelectorAll('.preset-btn').forEach((b, i) => b.classList.toggle('active', i === idx));
   updateAll();
 }
-
-// (copyPrompt removed)
 
 (function() {
   const container = document.getElementById('presets');
