@@ -228,28 +228,7 @@
     .gen-node.ancestor { background: var(--off-white); }
     .gen-arrow { color: var(--text-light); font-size: 0.9rem; }
 
-    /* Prompt section */
-    .prompt-section {
-      padding: 1rem 1.5rem; border-top: 1px solid var(--border);
-      background: var(--off-white); max-width: 1200px; margin: 0 auto;
-    }
-    .prompt-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem; }
-    .prompt-header h3 {
-      font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1.5px;
-      color: var(--text-light); font-family: var(--font-ui); font-weight: 600;
-    }
-    .copy-btn {
-      padding: 0.3rem 0.8rem; font-size: 0.75rem; background: var(--accent);
-      border: none; border-radius: 4px; color: white; cursor: pointer;
-      font-family: var(--font-ui); font-weight: 600; transition: background 0.15s;
-    }
-    .copy-btn:hover { background: var(--accent-dark); }
-    .copy-btn.copied { background: var(--green); }
-    .prompt-text {
-      font-family: 'SF Mono', 'Menlo', monospace; font-size: 0.8rem; line-height: 1.6;
-      color: var(--text); background: var(--white); padding: 0.8rem; border-radius: 4px;
-      white-space: pre-wrap; max-height: 120px; overflow-y: auto; border: 1px solid var(--border);
-    }
+    /* (prompt section removed) */
 
     .card-title { font-size: 0.9rem; margin-bottom: 0.75rem; color: var(--text-light); font-family: var(--font-ui); font-weight: 600; }
     .card-note { font-size: 0.75rem; color: var(--text-light); margin-top: 0.75rem; font-family: var(--font-ui); }
@@ -422,13 +401,6 @@
     </div>
   </div>
   <div class="preview" id="preview"></div>
-</div>
-<div class="prompt-section">
-  <div class="prompt-header">
-    <h3>Prompt Output</h3>
-    <button class="copy-btn" id="copy-btn" onclick="copyPrompt()">Copy</button>
-  </div>
-  <div class="prompt-text" id="prompt-output"></div>
 </div>
 
 <!-- Site Footer -->
@@ -666,36 +638,7 @@ function renderPreview() {
   }
 }
 
-function updatePrompt() {
-  const el = document.getElementById('prompt-output');
-  const parts = [];
-  if (state.sex === 'doe') {
-    const eval_ = evaluateDoe();
-    const breedLabel = state.breed === 'miniature' ? 'Nigerian Dwarf' : 'standard breed';
-    parts.push('A ' + breedLabel + ' doe freshening at ' + formatAge(state.ageDays) + ' old');
-    parts.push('produced ' + state.milk + ' lbs milk, ' + state.fat + ' lbs butterfat, and ' + state.protein + ' lbs protein in a single lactation.');
-    const minMilk = computeMinimum(state.ageDays, state.breed, 'milk');
-    const minFat = computeMinimum(state.ageDays, state.breed, 'butterfat');
-    const minPro = computeMinimum(state.ageDays, state.breed, 'protein');
-    parts.push('\nMinimums at this age: ' + minMilk.toFixed(1) + ' lbs milk, ' + minFat.toFixed(2) + ' lbs fat, ' + minPro.toFixed(2) + ' lbs protein.');
-    const qualified = eval_.results.filter(r => r.qualifies).map(r => r.component);
-    const failed = eval_.results.filter(r => !r.qualifies).map(r => r.component + ' (' + r.actual.toFixed(1) + ' vs ' + r.minimum.toFixed(1) + ' needed)');
-    if (eval_.anyQualifies) {
-      parts.push('Qualifies on: ' + qualified.join(', ') + '.');
-      if (failed.length) parts.push('Does not meet: ' + failed.join(', ') + '.');
-      parts.push('\nWith ' + (state.damStars > 0 ? 'a ' + state.damStars + '*M dam' : 'no starred dam') + ', this doe earns ' + eval_.designation + '.');
-    } else { parts.push('\nDoes not qualify. Shortfalls: ' + failed.join('; ') + '.'); }
-  } else {
-    const eval_ = evaluateBuck();
-    parts.push('A ' + (state.breed === 'miniature' ? 'Nigerian Dwarf' : 'standard breed') + ' buck.');
-    if (eval_.starB) { parts.push('\n*B: ' + eval_.starBDesc + '.'); }
-    else { const reasons = []; if (!state.damQualifies) reasons.push('dam does not qualify on milk+fat'); else { if (!state.sireQualifies) reasons.push('sire is not AR/*B/+B'); if (!state.siresDamQualifies) reasons.push("sire's dam does not qualify on milk+fat"); } parts.push('\n*B: Not qualified (' + reasons.join('; ') + ').'); }
-    if (eval_.plusB) { parts.push('+B: Qualifies via Path ' + eval_.firstPath.letter + ' (' + eval_.firstPath.desc + ').'); }
-    else { parts.push('+B: Not qualified. Has ' + state.daughters + ' *M daughters, ' + state.arSons + ' AR sons, ' + state.plusBSons + ' +B sons.'); }
-    parts.push('\nDesignation: ' + (eval_.designation || 'None') + '.');
-  }
-  el.textContent = parts.join('\n');
-}
+// (prompt output removed)
 
 function updateAll() {
   document.getElementById('age-display').textContent = formatAge(state.ageDays);
@@ -734,7 +677,7 @@ function updateAll() {
     document.getElementById('fat-slider').max = 200;
     document.getElementById('protein-slider').max = 200;
   }
-  renderPreview(); updatePrompt();
+  renderPreview();
 }
 
 function setSex(s) { state.sex = s; updateAll(); }
@@ -749,14 +692,7 @@ function applyPreset(idx) {
   updateAll();
 }
 
-function copyPrompt() {
-  const text = document.getElementById('prompt-output').textContent;
-  navigator.clipboard.writeText(text).then(() => {
-    const btn = document.getElementById('copy-btn');
-    btn.textContent = 'Copied!'; btn.classList.add('copied');
-    setTimeout(() => { btn.textContent = 'Copy'; btn.classList.remove('copied'); }, 1500);
-  });
-}
+// (copyPrompt removed)
 
 (function() {
   const container = document.getElementById('presets');
