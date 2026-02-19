@@ -10,7 +10,7 @@ Floof Farm is a Washington dairy goat farm based in Winlock. We breed American D
 <div class="hero-photos-grid">
   <img class="hero-tall" src="/images/2023-07-received_658223965886066-2-0f9800.jpg" alt="Floof Farm goats">
   <div class="hero-stack">
-    <img src="/images/2023-07-20230719_162039-2-ab2ea8.jpg" alt="Floof Farm goats">
+    <img src="/images/2021-07-20250601_131955-1024x1002.jpg" alt="Floof Farm goats">
     <img src="/images/2023-10-20231019_173544-1-975x1024-d4164f.jpg" alt="Floof Farm goats">
   </div>
 </div>
